@@ -277,7 +277,6 @@
     .line 184
     .end local v1    # "defaultSize":Landroid/hardware/Camera$Size;
     .restart local v0    # "bestSize":Landroid/graphics/Point;
-    
     :bestSize_not_null
     iget v1, v0, Landroid/graphics/Point;->x:I
     iget v2, v0, Landroid/graphics/Point;->y:I
