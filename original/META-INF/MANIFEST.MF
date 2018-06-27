@@ -1,0 +1,2314 @@
+Manifest-Version: 1.0
+Created-By: 1.7.0_51 (Oracle Corporation)
+
+Name: res/drawable/abc_btn_check_material.xml
+SHA1-Digest: 4XHnecusACTIgtImUjC7bQ9HNM8=
+
+Name: assets/Resources/data/image_reminders_refill_benefits_ready_pl_1
+SHA1-Digest: LjxEaqcpjwJS0p0GtQSIarKdL+0=
+
+Name: res/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: a2PqqMawE/5F/kuBuWS4K8kdtOo=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: nKaHZR/SZMMQaMr3tIMJk0K1+k0=
+
+Name: res/drawable-tvdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: ay7u9Xb5KPaybKcPoRzUvbBA+ac=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_disabled_focus_light
+ .9.png
+SHA1-Digest: r5BaJcm8YInShTypnaU/gf6UKTQ=
+
+Name: res/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+SHA1-Digest: NJuMq0n7Coq8s/ff6QHhDQhI9uw=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: 9aVwwDJLurzAdd/0dY0hcfBsZLI=
+
+Name: res/layout-land/share.xml
+SHA1-Digest: ZbxgVDMaJUONJTD8w/a96eGzxWk=
+
+Name: res/layout/titanium_ui_date_picker_spinner.xml
+SHA1-Digest: hOiKkj8m7h20INDg8I3ux9AeyDE=
+
+Name: res/drawable-notlong-land-xxhdpi-v4/background.png
+SHA1-Digest: aGOn4FOBgKBzIkF4o4hWfOnjesg=
+
+Name: lib/armeabi/libcom.obscure.keychain.so
+SHA1-Digest: 2YR/061Ttvs2HXaeABzlmfiGsHU=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: VfF1Y+3CjDiM4dG+tUnOEInJ2T8=
+
+Name: assets/images/big-qr.png
+SHA1-Digest: QT21VLtHMfykXY+fAe32b89Cvl4=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: 2zGuWTNe/mXuDfUEMVNWpRpYsB4=
+
+Name: assets/Resources/images/series/app/layer_1.png
+SHA1-Digest: +F+wb8NJSdLTCGsC/56DuUCoYpk=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_disabled_focus_lig
+ ht.9.png
+SHA1-Digest: wv2dVvaU2YokwLE9rPy/vR71x8o=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+SHA1-Digest: ENn3FUb05m3F0Uj6epIkDxisaoI=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: UXCDxpOg7UXbnFoDNGrU88J4zC4=
+
+Name: res/layout-v17/notification_template_part_chronometer.xml
+SHA1-Digest: /tleGF87ky3IR/U7tUbmc25lGeM=
+
+Name: assets/Resources/images/series/refill/layer_14.png
+SHA1-Digest: yBjnN4vdyltzpXOqGNwZg+CeSvg=
+
+Name: res/drawable/abc_list_selector_background_transition_holo_dark.x
+ ml
+SHA1-Digest: ue0Fz+WBzGNfUL7sLN6pBroYWao=
+
+Name: res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9
+ .png
+SHA1-Digest: sM1tzoxIgcK5w/PwGSZxzucCBqY=
+
+Name: res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+SHA1-Digest: +bjkZfnp7jH8HvA5wzYQ85O04Ic=
+
+Name: res/drawable/abc_switch_thumb_material.xml
+SHA1-Digest: z9gFaal0BgHdAVLHtKJQz3YEnAE=
+
+Name: assets/Resources/images/series/prescriptions/layer_12.png
+SHA1-Digest: 5DEVuXCgGdOPjzB2uhvahPuTPOM=
+
+Name: res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA1-Digest: eQ8hrqPRD0qhhaJWghhXuxRIxBA=
+
+Name: res/drawable-v21/abc_action_bar_item_background_material.xml
+SHA1-Digest: VikGrClarpkvTVwTS9DEpzyZFsI=
+
+Name: assets/Resources/images/series/refill/layer_23.png
+SHA1-Digest: 9FLFSMWj+qNm4AehCIYkDdoj3TY=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: tTF0QYtVkswHx7xFvFycWVXUxsw=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: alk9qCjovoayqfBmhKb0OSABN44=
+
+Name: assets/Resources/https.cer
+SHA1-Digest: 8KIcWefWhSPN/wp//hmOfWorJCk=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+SHA1-Digest: A1jmf+4/FK84T7WYmxH0Y09wAFg=
+
+Name: res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png
+SHA1-Digest: tpEM52vWcakmOwaErjJ4ZPrPYyg=
+
+Name: assets/www/error.js
+SHA1-Digest: SBmcnKGpVjHP0vKRSsA2aXN35LU=
+
+Name: res/layout/support_simple_spinner_dropdown_item.xml
+SHA1-Digest: K+QTsvyds4aA7nM/gUsWARJ0Itk=
+
+Name: lib/x86/libstlport_shared.so
+SHA1-Digest: P61fYVbKLWZbWveYCL5iKwiEaF4=
+
+Name: ti/modules/titanium/ui/widget/webview/binding.js
+SHA1-Digest: D+hJZWGXMS7uVYe68J60FCAWy3Y=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: yP2hhhdWfqPQ6VTBFpcZM+5I8sg=
+
+Name: assets/Resources/images/series/app/layer_13.png
+SHA1-Digest: RwD/9dUslrNFqOZ7Q/qYXARDisQ=
+
+Name: lib/x86/libcom.appcelerator.apm.so
+SHA1-Digest: 00B6ShVZV3g/+Z+dKAMjRDiuWfA=
+
+Name: res/drawable-xxhdpi-v4/drawer_shadow.9.png
+SHA1-Digest: NP4XWP/Gd+1DIGSKhKAUT81YnAc=
+
+Name: res/color-v23/abc_color_highlight_material.xml
+SHA1-Digest: qEE9S+20lwobg5htp5fZNfipRlk=
+
+Name: assets/Resources/images/series/family_care/layer_6.png
+SHA1-Digest: +nAJJ23ud13ytGx0z97gRdtVvwA=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA1-Digest: ONZ16YRuPa6MY/n88oM4JUsaV7Q=
+
+Name: assets/Resources/images/nl.fokkezb.color/hsvg.png
+SHA1-Digest: w76QVmburqVmHR5zAP68wngEInw=
+
+Name: assets/Resources/images/series/exp_pickup/layer_11.png
+SHA1-Digest: MnjnN4EyMEBF/3wG20IoB8RGkjg=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: CG3lDkcP/GHQTYwc/aOmdEm1/oA=
+
+Name: res/drawable-notlong-port-xxhdpi-v4/background.png
+SHA1-Digest: yJdISsr+JJSLjoZf8+2PZfJTJrk=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_disabled_focus_dar
+ k.9.png
+SHA1-Digest: wv2dVvaU2YokwLE9rPy/vR71x8o=
+
+Name: res/drawable-xhdpi-v4/ic_drawer.png
+SHA1-Digest: uYBBQj3gamryOu09AZqnJPYN/pQ=
+
+Name: assets/Resources/ti-qrcode-master/README.md
+SHA1-Digest: VbCUIFURM7zDRKX4uSfdfTqF+Xk=
+
+Name: res/drawable/common_signin_btn_text_light.xml
+SHA1-Digest: +OSuL/lANcy7hWp0M4yB2A5zOEE=
+
+Name: assets/Resources/images/series/family_care/layer_18.png
+SHA1-Digest: xIg6Cj6U+uf+Qom6FwYWreY+8kM=
+
+Name: assets/Resources/images/series/reminders/layer_1.png
+SHA1-Digest: +F+wb8NJSdLTCGsC/56DuUCoYpk=
+
+Name: res/drawable-ldrtl-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: 5LeNKf2Di1jUSAKDjrtFAYF0634=
+
+Name: assets/Resources/images/series/reminders/layer_4.png
+SHA1-Digest: UJP8Ck/acoI0hVV7yplLbap9Prg=
+
+Name: assets/Resources/data/font_icon_1
+SHA1-Digest: VZ+FWyAIql92ecQZubycGJD1kG4=
+
+Name: res/layout-v17/notification_template_lines.xml
+SHA1-Digest: szKM4eZFKPeXcvFRm4ghqvsvZDM=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: R1Lv+apJOCS6dUNQwI1UE8jwb9w=
+
+Name: assets/Resources/data/image_fail_pl_1
+SHA1-Digest: zDwkbAzzdtrBuYheBMRdlYvv9cg=
+
+Name: res/drawable-ldrtl-mdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: dwFUdug4NjwgVYs5hQeYd0LoDqY=
+
+Name: res/layout/abc_action_mode_close_item_material.xml
+SHA1-Digest: x/f9ppA7QYx1/WVU0rEKf5M/6Ek=
+
+Name: res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.p
+ ng
+SHA1-Digest: iN/uNjBfhVbAIr76ujTy7rKk9Iw=
+
+Name: res/drawable-notlong-land-mdpi-v4/background.png
+SHA1-Digest: WSu/P+u8wTrrAJ8UDXP4tDzcqlY=
+
+Name: assets/Resources/images/series/refill/layer_25.png
+SHA1-Digest: v0FLKdsOfAaAFxWN8n8AOH+HWAw=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: y5NEiGadCzArYseq09UiAUCI9Ys=
+
+Name: res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+SHA1-Digest: h7hNXJrcbvKMv9bbGrTrvd0dOgs=
+
+Name: assets/images/big-1d.png
+SHA1-Digest: JFdfTBTq/kYm3ArY4rDYsNQ82ww=
+
+Name: assets/Resources/data/image_tip2_pl_1
+SHA1-Digest: lZT8xq0E8bCtn2R4fMpjk35KAyA=
+
+Name: assets/Resources/images/series/refill/layer_24.png
+SHA1-Digest: 09uZPCCp1fXkW8wrwvfMsy/K3h0=
+
+Name: res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+SHA1-Digest: 5IVYUs+DMmiHJLT3Sb8adVW1F3A=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: NNwe3FKHs47gjoFv3kwcJmKiUOw=
+
+Name: res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_000.png
+SHA1-Digest: nRtiU5b/2GCMrB/FhPJC0XFk+lU=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: +gmuhIqM5fxBv3rZoih1jHA7u0A=
+
+Name: res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA1-Digest: e//ti7f9UjoZyXMyT5IRTahD3PQ=
+
+Name: res/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+SHA1-Digest: co2ui0Asp74KdluZzGxhkbUlA6E=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png
+SHA1-Digest: UYrvwqdYiBQibIGsP1CUFIPzGn8=
+
+Name: res/drawable/abc_edit_text_material.xml
+SHA1-Digest: xqrXPvGStAyndf42OE09mKCc6d4=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: 3P2Q/ZAE5zdB3clrfhpWK44ry8k=
+
+Name: org/appcelerator/titanium/res/drawable/btn_more_18.png
+SHA1-Digest: lBPBjjzAbwMKDYjb2PnTSVjzqmU=
+
+Name: res/layout/abc_action_bar_view_list_nav_layout.xml
+SHA1-Digest: fPcp5bamSYkhKb45ruqnK4vLnp4=
+
+Name: lib/armeabi-v7a/libcom.appcelerator.apm.so
+SHA1-Digest: 1247NCCYVpLLP4Un4V95OIPTmLs=
+
+Name: res/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+SHA1-Digest: gucbTZe3jL9sIHN9h050N8OtVhM=
+
+Name: res/drawable/appicon.png
+SHA1-Digest: 5poywGi9fHwhbRUPPzavy3McPN8=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: oHKnBBbWgjP4o7A/6GgdHOh1E3M=
+
+Name: lib/x86/libti.imagefactory.so
+SHA1-Digest: 4QOTscIsIXZiWshtSWVHgl95zHg=
+
+Name: res/drawable-v21/abc_btn_colored_material.xml
+SHA1-Digest: qGg4TnANJdIaG1UURh3AmZcDu0I=
+
+Name: assets/Resources/data/image_text_benefits_pl_1
+SHA1-Digest: zRl7W5EaybehXUQB1OzzqgugXjM=
+
+Name: res/drawable-long-land-xhdpi-v4/background.png
+SHA1-Digest: LZqo9BVwP5DSOKpb6GH2CGOKxPs=
+
+Name: org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_4
+ 8.png
+SHA1-Digest: PVHJf/h/U7IzlFU583+/+eazmUs=
+
+Name: res/anim/abc_slide_in_top.xml
+SHA1-Digest: YBdDQbyB2IFfhjwKI6NSPOXqz7g=
+
+Name: res/layout/abc_screen_toolbar.xml
+SHA1-Digest: hYpQQq07qszXP4pAlloceulEYUA=
+
+Name: assets/Resources/data/image_checkout_shopping_image_pl_1
+SHA1-Digest: WXnWcGKHav9zFrWEx+jpVYf0D2M=
+
+Name: res/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+SHA1-Digest: n7GlKV/TekDD9mf7mkks37JbLFg=
+
+Name: res/drawable-xxhdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: ay7u9Xb5KPaybKcPoRzUvbBA+ac=
+
+Name: assets/Resources/images/series/exp_pickup/layer_4.png
+SHA1-Digest: d/OnB90MxbGSLWrQcZZvuz8qlH8=
+
+Name: res/drawable-hdpi-v4/ic_plusone_small_off_client.png
+SHA1-Digest: zYEVoFXucmJpZuzXxsGneYWIlNU=
+
+Name: res/drawable-mdpi-v4/abc_ic_go_search_api_mtrl_alpha.png
+SHA1-Digest: 5Vi4+Jn1tMhhrZnGNmAUFX8JqSE=
+
+Name: res/drawable/abc_btn_radio_material.xml
+SHA1-Digest: UTYOeeEsntRapgE5ZWUWf1IlU/I=
+
+Name: res/drawable/abc_btn_default_mtrl_shape.xml
+SHA1-Digest: T6DK5IdA/aAG24eCLmUramUmdiU=
+
+Name: res/drawable-ldpi-v4/appicon.png
+SHA1-Digest: r/IJKVIIkaCC6pe8pyUJ56pH7nE=
+
+Name: res/layout/notification_media_cancel_action.xml
+SHA1-Digest: CTkubC8bfXUfbTdu18YfeRX6Ia4=
+
+Name: assets/Resources/images/series/exp_pickup/layer_15.png
+SHA1-Digest: CK+5BLPOn4O1Q76jOR79iDg9LZw=
+
+Name: res/drawable-xhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: vWn1eL032ov2gYVJC9c6/1+8p3s=
+
+Name: assets/Resources/data/image_cart_arrow_pl_1
+SHA1-Digest: UK3byYkWUurukS0nHCOewho0zJo=
+
+Name: org/appcelerator/titanium/res/drawable/btn_more.png
+SHA1-Digest: KiS1YS9jRuZ8iamGtqUAs3p60Bk=
+
+Name: res/drawable-xxhdpi-v4/notify.png
+SHA1-Digest: 0mwgnij6DRRJofGlpCIO90H1S0s=
+
+Name: assets/Resources/images/series/prescriptions/layer_11.png
+SHA1-Digest: 2TkEjiLPKV3TXf8o/pDOglVRUwg=
+
+Name: res/drawable/actionbar_shadow.xml
+SHA1-Digest: Xp7+4+KYFSc8Rct52hHvRTyMOyo=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_disabled_focus_ligh
+ t.9.png
+SHA1-Digest: R0rCQap54Xf4ElOYS7zj9TUQB6s=
+
+Name: res/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: q8RqfUM2laeQX8n/UUH1IoDcBlg=
+
+Name: org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_1
+ 8.png
+SHA1-Digest: /suNq9oo1ZxWJNc/+Ewq8/ERDUg=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_disabled_focus_dark.
+ 9.png
+SHA1-Digest: CLs5FbiMwb7vIKZyvZ2iE6odMZs=
+
+Name: assets/html-en/whatsnew.html
+SHA1-Digest: ER5T76MQCh9CWNQKNOJ6sh1gERs=
+
+Name: res/drawable-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: fgv4pn1ZscEiezQ/5kUmg+STbxU=
+
+Name: lib/armeabi/libtiverify.so
+SHA1-Digest: zwjqCK3fc+sdZppuN6gsvbCOlb0=
+
+Name: res/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+SHA1-Digest: K3ucg8inS6QEpdWRjFnNMV6IIbo=
+
+Name: assets/Resources/images/series/refill/layer_18.png
+SHA1-Digest: EFEDZBQtO27YWTbW5jKhVcTJI+0=
+
+Name: assets/Resources/images/series/family_care/layer_5.png
+SHA1-Digest: mZfzmKVSZHxMkyfintk32D+8xF4=
+
+Name: res/anim/abc_slide_in_bottom.xml
+SHA1-Digest: ZliTihZ+8kHBA4SfvPIPI00Y7uE=
+
+Name: assets/Resources/images/series/exp_pickup/layer_17.png
+SHA1-Digest: cewEGnX8wPjMtgX2fBJSgVFlWlE=
+
+Name: res/drawable-xxhdpi-v4/ic_plusone_tall_off_client.png
+SHA1-Digest: Zpm+uanjIZounXjdWPevociI0a8=
+
+Name: assets/Resources/images/series/reminders/layer_5.png
+SHA1-Digest: pYm/pBS7NzO+PPm9Yt0p7QicbfE=
+
+Name: res/drawable/abc_textfield_search_material.xml
+SHA1-Digest: kiWJMJSq8ED+7NVPfAk4vXDspxc=
+
+Name: assets/Resources/images/series/app/layer_2.png
+SHA1-Digest: 5yWRREdeXY1jZ+5WZUfc9YJ5G/I=
+
+Name: res/drawable-long-port-mdpi-v4/background.png
+SHA1-Digest: P3Nbff8LtV5tvpjMnLg6jTWlgWU=
+
+Name: assets/Resources/images/series/refill/layer_21.png
+SHA1-Digest: BdhPZshBgw/zOPo5R2T+vXqQxYE=
+
+Name: lib/x86/libcom.tripvi.drawerlayout.so
+SHA1-Digest: vKHIuELQ1KlcwLJ8oeNNlPxzKmA=
+
+Name: res/drawable/abc_ratingbar_full_material.xml
+SHA1-Digest: MfDmzm0ay6GJeWdYSqVyS/cFDL8=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_disabled_focus_dark
+ .9.png
+SHA1-Digest: KfT1DbEuXyhvG18n0yILeVsK0Vo=
+
+Name: assets/Resources/data/image_child_pl_1
+SHA1-Digest: yZUxMpOG04rh4JXH3UM9bwoMH+k=
+
+Name: res/layout/history_list_item.xml
+SHA1-Digest: wVu5mBglOk+EHSl75GEKRNcvOfE=
+
+Name: res/layout/bookmark_picker_list_item.xml
+SHA1-Digest: aYYPlhAxKa9cK2Frx8mdVv2/HzU=
+
+Name: res/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+SHA1-Digest: QqPpbBwEr9nywoEL/OHp+2+gZ1Q=
+
+Name: assets/Resources/images/series/exp_pickup/layer_13.png
+SHA1-Digest: rFbOoM13HBQtaVBw9KmJ/ztZU2c=
+
+Name: assets/Resources/images/series/refill/layer_20.png
+SHA1-Digest: PO7CF9eh8u9Z1kmfGp+oXJ8sN5I=
+
+Name: res/layout/titanium_ui_time_picker_spinner.xml
+SHA1-Digest: fwFCO57WYc/vpyZCt0YlpW/1uQI=
+
+Name: assets/Resources/images/series/prescriptions/layer_18.png
+SHA1-Digest: DecW3F7hQn/ZxmzdsGHYyYkC2Es=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: f8NYPVOXcYBwuQSENH+eJEOJeV4=
+
+Name: assets/Resources/images/series/prescriptions/layer_15.png
+SHA1-Digest: 6/kxJS2L4f8+UB+bpgxLDVnxdWU=
+
+Name: lib/x86/libkroll-v8.so
+SHA1-Digest: Mozwe4Ee19Xt1mFKWIra8RfZcz4=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: LewhoID0LjtBYVPp7OCVxcpi4Ls=
+
+Name: assets/Resources/images/series/app/layer_3.png
+SHA1-Digest: +US0FwK5pq7IvHhCENemX9F8p6w=
+
+Name: res/drawable/abc_btn_colored_material.xml
+SHA1-Digest: c1kBk3kYH1Q2Zf0o2yN8Btg8MFI=
+
+Name: res/drawable-xhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png
+SHA1-Digest: TDv0yS8gn+DhjrSCLViF3e4l1o8=
+
+Name: assets/Resources/images/series/prescriptions/layer_13.png
+SHA1-Digest: JuZx8EcOBUV5kGV3FOMLvSM0BZ4=
+
+Name: res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA1-Digest: wTxntWArKB7sDc4M27U+PpjZhyU=
+
+Name: res/drawable/common_signin_btn_icon_dark.xml
+SHA1-Digest: MBfg1MSJ1Bxi28TidlQ2IEOSc/8=
+
+Name: res/drawable/abc_item_background_holo_light.xml
+SHA1-Digest: yUkLXuYfmJo7yAKcYdkO/Bz6+7g=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: 1BuFFGqXKd2oLlGoMWaCcT0oFug=
+
+Name: assets/Resources/data/font_light_1
+SHA1-Digest: LjFI0hOxUyjr67oU6Cj7O/eWNO4=
+
+Name: assets/Resources/images/series/reminders/layer_10.png
+SHA1-Digest: dthaTYC8+/Q+IQS/S7VnaoDDsQI=
+
+Name: assets/Resources/data/image_auto_fill_pl_1
+SHA1-Digest: aVCO3K9Su6GDCFKklwQc1qLZojU=
+
+Name: res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+SHA1-Digest: J10MbRypNxo+JeKfGf61OMkWgdY=
+
+Name: res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA1-Digest: hOoziuoJ3C2IMcfDzYzmL7E6Tm8=
+
+Name: assets/Resources/images/series/family_care/layer_2.png
+SHA1-Digest: CVKycreOGS3MtsLRLJLx6ZcTiB8=
+
+Name: res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: W6K3P94iAz0CiSFCp6GiJlxogqs=
+
+Name: assets/images/big-datamatrix.png
+SHA1-Digest: kDLuU9FMOTeeJx0j7K1EbxXN6n0=
+
+Name: lib/armeabi-v7a/libkroll-v8.so
+SHA1-Digest: VEDwW9Epw3jvQV9CsilciZy0tFE=
+
+Name: res/layout-v21/titanium_ui_time_picker_spinner.xml
+SHA1-Digest: 1nIBxj1/FXeBIbqssy8UYuV+VD0=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: PqTpPBDW7Mw+tiTo97Mdprm+VVU=
+
+Name: res/raw/gtm_analytics
+SHA1-Digest: z4lph6xlv9ztpVWW3QM9h7QjqS0=
+
+Name: res/drawable/abc_list_selector_background_transition_holo_light.
+ xml
+SHA1-Digest: eB7+OoLJonz4zLG74wVibEngsqw=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_disabled_dark.9.pn
+ g
+SHA1-Digest: M/AuBUDrasZr5kX0EObwl5+LiN8=
+
+Name: res/drawable-xxhdpi-v4/ic_plusone_small_off_client.png
+SHA1-Digest: hMf/FoHQ1ncswR3Ha2oj+rtb3FA=
+
+Name: res/drawable-hdpi-v4/launcher_icon.png
+SHA1-Digest: oQeWLALDSU5dHI5d9P6QrxON9J0=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: +W21ZNQRN0oDMKb9p9oNUq/o5as=
+
+Name: res/drawable-xxhdpi-v4/ic_drawer.png
+SHA1-Digest: i5kg+QsxeyuVW4uAr5R4Spk38uU=
+
+Name: res/drawable-xhdpi-v4/cast_ic_notification_2.png
+SHA1-Digest: tccUOIw+wwShOm1ZhkTFX+cBUZA=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: PQepBgnG9/NfWmEsB0xZninuUKM=
+
+Name: assets/Resources/images/series/reminders/layer_9.png
+SHA1-Digest: fPIOIZ9FDe2zowSOOZKvHp/sY30=
+
+Name: res/drawable-long-land-mdpi-v4/background.png
+SHA1-Digest: WSu/P+u8wTrrAJ8UDXP4tDzcqlY=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_search_api_mtrl_alpha.png
+SHA1-Digest: dX7kVhabIEKRvdWnmONWJAK0FCU=
+
+Name: res/drawable-notlong-land-hdpi-v4/background.png
+SHA1-Digest: ahw2Qxb6wKCEdGApdfDdgyWBuGw=
+
+Name: assets/Resources/data/image_family_add_pl_1
+SHA1-Digest: Wp7vQrHI5bLJX1ynRHCra3ORpDM=
+
+Name: res/drawable-hdpi-v4/cast_ic_notification_1.png
+SHA1-Digest: +hkZ/Ra8e3BFpVYHZYj6/IfghuU=
+
+Name: assets/Resources/images/series/family_care/layer_16.png
+SHA1-Digest: ikZkfpbpbWV0StmR4FtJM6rod5Q=
+
+Name: assets/Resources/data/image_success_pl_1
+SHA1-Digest: Pr66xvfwxk28JltkDxtKq1pMndw=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: Cv+J7vU8p5tdCif6GMDKlPPRC6M=
+
+Name: assets/Resources/images/series/prescriptions/layer_6.png
+SHA1-Digest: I4CEa2C579tN2kdC6mqg9Z79wXE=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png
+SHA1-Digest: Kp+MV1iXyHBCXL27G/dUvIG0m2M=
+
+Name: res/drawable-hdpi-v4/ic_plusone_tall_off_client.png
+SHA1-Digest: SBKgHrI8+WG2Q5nUL763ra3tcmc=
+
+Name: res/drawable-ldrtl-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: rIBNxxH8rn0XchnrLO+YkM759P8=
+
+Name: res/drawable-mdpi-v4/notify.png
+SHA1-Digest: WzPuZtGFN7pg/dgWrYK+2JB0AYk=
+
+Name: res/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png
+SHA1-Digest: VJa6PrhxyIRS2huzDuIN1KH+I2c=
+
+Name: assets/Resources/images/series/prescriptions/layer_21.png
+SHA1-Digest: nPi3sEMBZj0amu5AV7smJCZ9xGU=
+
+Name: assets/Resources/images/series/refill/layer_5.png
+SHA1-Digest: hDXOpspUV++I267TDSLBexAHprs=
+
+Name: res/layout-v17/notification_template_big_media_narrow.xml
+SHA1-Digest: Y8IsZhlaey7juGBQXsm5Zkmxbn4=
+
+Name: lib/armeabi/libkroll-v8.so
+SHA1-Digest: gZ7R78YfhRfWnGNEGBRU0dVNyH4=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: hqxe2Ap9MZsAqBPDoV+yim7NXFM=
+
+Name: res/drawable-xxxhdpi-v4/appicon.png
+SHA1-Digest: P9qw5HOznnn27UouX+rHcEnJ/PI=
+
+Name: assets/Resources/images/series/family_care/layer_8.png
+SHA1-Digest: 1+fvnRO0JjO3JGMM/3LYtvfgqnw=
+
+Name: lib/x86/libti.map.so
+SHA1-Digest: /uJuHpyGGv+EbGLgSRSUNFB4MJo=
+
+Name: res/layout/search_book_contents.xml
+SHA1-Digest: ChCOLDJhmINjdjCTrxYSCRD1Z3w=
+
+Name: res/color/abc_primary_text_material_dark.xml
+SHA1-Digest: X2Eca1XXrguuyaXnU/19at0LgBY=
+
+Name: res/layout/notification_template_media.xml
+SHA1-Digest: RaiJ4r3N2P9ruukb5cP/OXUF314=
+
+Name: res/drawable/cast_ic_notification_connecting.xml
+SHA1-Digest: N3lz1jgCyrXr0XxLH5/dyTyu+9Y=
+
+Name: assets/html-en/about2d.html
+SHA1-Digest: VJ/g2A72fZgQK8UR58g+gC3PTn8=
+
+Name: org/appcelerator/titanium/res/drawable/btn_picker_selected.9.png
+SHA1-Digest: /wImUSrQNCBxKJ7Eh3CsfdfGQkE=
+
+Name: res/layout-v21/abc_screen_toolbar.xml
+SHA1-Digest: svYjAMB1tgSpsxilaSAh15/pDak=
+
+Name: assets/Resources/images/series/prescriptions/layer_4.png
+SHA1-Digest: 06Fy6rrDrzXPARcUQowBspRzlS4=
+
+Name: res/drawable-ldrtl-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: EW42e7xg8hfawoOwLPSTzkwmAvI=
+
+Name: res/drawable-long-land-ldpi-v4/background.png
+SHA1-Digest: uUF7G7iDNx9swP+8jZujQf/umDI=
+
+Name: res/drawable-xhdpi-v4/cast_ic_notification_on.png
+SHA1-Digest: sx8MulCwoLgPjrSZfuaaFvEppcE=
+
+Name: assets/Resources/images/series/family_care/layer_9.png
+SHA1-Digest: 579sfIas5CgZvai948J3dvUWn+U=
+
+Name: res/drawable/abc_item_background_holo_dark.xml
+SHA1-Digest: RIX9uWFvdznE8MTLKN6gc9wGpXo=
+
+Name: res/drawable-xhdpi-v4/drawer_shadow.9.png
+SHA1-Digest: utDk0NKN3CklXyoNTkzpahPy7Aw=
+
+Name: res/drawable-mdpi-v4/appicon.png
+SHA1-Digest: vpNqHD/2u6+6hVhCzOHuf47oy/g=
+
+Name: assets/Resources/images/series/family_care/layer_17.png
+SHA1-Digest: FysOTo4SO3lJ819ggB8C1lmrEDQ=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_disabled_light.9.pn
+ g
+SHA1-Digest: +qORW9oS7s5/oY5Z1R4KkQ+aJ1g=
+
+Name: res/layout/titanium_ui_list_item.xml
+SHA1-Digest: P+dotVzaklIvz4mzfrT3+SZ5ZGs=
+
+Name: res/drawable-long-port-xxxhdpi-v4/background.png
+SHA1-Digest: xiPEA3UjNm8o6xl3+sbQ8Y55Yws=
+
+Name: res/layout/abc_expanded_menu_layout.xml
+SHA1-Digest: Sut8gytvadCSRBes8kigiPS7dfY=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_search_api_mtrl_alpha.png
+SHA1-Digest: 2QMB30NbhD31pg8xjiANeCuf9Q4=
+
+Name: res/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+SHA1-Digest: 6eRtpYyE2B45gWd2aZtCG4kO5FM=
+
+Name: assets/Resources/images/series/reminders/layer_7.png
+SHA1-Digest: M9gpBZM4f3Ulpd5WYBU8w3luffw=
+
+Name: res/drawable-hdpi-v4/abc_list_focused_holo.9.png
+SHA1-Digest: zND8CPcT8wBLOji5D5ZGNvi5kR8=
+
+Name: res/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png
+SHA1-Digest: C4a5xmVEzcIJxede0Urh0qZwCmg=
+
+Name: res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: rG5iJ8LJqs0d2oExcr38IP+z/7s=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA1-Digest: NRcHxLdsX/Th2xTrioD1KYFYeK8=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_disabled_focus_light
+ .9.png
+SHA1-Digest: CLs5FbiMwb7vIKZyvZ2iE6odMZs=
+
+Name: res/drawable-xxhdpi-v4/cast_ic_notification_1.png
+SHA1-Digest: j03DPBFzsrv0MgPWX+LN1jrs+lA=
+
+Name: res/drawable-hdpi-v4/cast_ic_notification_0.png
+SHA1-Digest: dwCi8REd8Li4eCeDlFR5VLkA/bU=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: +qORW9oS7s5/oY5Z1R4KkQ+aJ1g=
+
+Name: res/color/abc_background_cache_hint_selector_material_light.xml
+SHA1-Digest: csNaTfqhJ/Txm+9MMYWa3p3SqIs=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: HvBnKfx7kTT35jAm4SxNol+ADmE=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+SHA1-Digest: PIrE1bETED2AcFA+Z0PCJDOewO4=
+
+Name: res/layout/abc_activity_chooser_view.xml
+SHA1-Digest: XOQxOMb3a+m3OnOqZFp2yY3VOGA=
+
+Name: res/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+SHA1-Digest: DTeGNcY/gdR9X+UQ3ft0flJ139w=
+
+Name: res/layout/abc_dialog_title_material.xml
+SHA1-Digest: mMaMxowMEpMqJGP6KN0Vcw3DbRg=
+
+Name: assets/app.json
+SHA1-Digest: ZD8TONTCBHghD6/yS53xcBHnayM=
+
+Name: res/anim/abc_shrink_fade_out_from_bottom.xml
+SHA1-Digest: P6lvd5M9UYG8Jgfwkw82lRA7Biw=
+
+Name: res/layout-land/encode.xml
+SHA1-Digest: npTp9aPZVtDibMy0VxCKSn2IYbQ=
+
+Name: res/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png
+SHA1-Digest: I2JJHnuKjt9jtF8C76fBatEScaE=
+
+Name: res/drawable/abc_cab_background_top_material.xml
+SHA1-Digest: gLHAZPEH/WYlWCNIPwRV1Ypbx70=
+
+Name: res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+SHA1-Digest: T5slVQklwytRhhFRjSw66UZR3vQ=
+
+Name: assets/images/scan-from-phone.png
+SHA1-Digest: GwYfwwWC7qHeuVQJHrU67ygT1+U=
+
+Name: res/drawable-xhdpi-v4/notify.png
+SHA1-Digest: 8QMbw+ZwBpcoF1OarIQedCINj7M=
+
+Name: assets/Resources/data/font_regular_1
+SHA1-Digest: ywy5GjH0MpO9cELdq5Rc4WHCnT0=
+
+Name: res/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+SHA1-Digest: TLfjxp5bknlrmh6zJTSYD2AfmTo=
+
+Name: res/drawable-hdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+SHA1-Digest: cZeeKYYQoRE11HuW93xInf8XqyM=
+
+Name: ti/modules/titanium/ui/widget/webview/json2.js
+SHA1-Digest: TgcUHtr4XTKa2PGq+2OHdO6CnC0=
+
+Name: res/layout-v17/abc_dialog_title_material.xml
+SHA1-Digest: /ydViQRPQklDPhV9J/VNkKWUbIM=
+
+Name: org/appcelerator/titanium/res/drawable/btn_check_buttonless_on.p
+ ng
+SHA1-Digest: /T8RNig7ULmtkpo8OvGFr73IrpI=
+
+Name: assets/Resources/images/series/refill/layer_11.png
+SHA1-Digest: 0dhjSV2J50On55R6MY4Xx0mEKk8=
+
+Name: AndroidManifest.xml
+SHA1-Digest: DnawVncmOhfnBNdetf4pFHdtCDA=
+
+Name: res/drawable-xxhdpi-v4/cast_ic_notification_2.png
+SHA1-Digest: 1uqhFvgtVXGAYszv0Kl27g03dD0=
+
+Name: res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png
+SHA1-Digest: GFCjouEOsx2zwJ4qrfooYQ63590=
+
+Name: res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+SHA1-Digest: kNN5YtGzB9jLDWZCcDJlqWqY3MM=
+
+Name: res/color/common_signin_btn_text_light.xml
+SHA1-Digest: agjE7d2X+TOPqdETMw339atITRw=
+
+Name: res/drawable/disclosure_64.png
+SHA1-Digest: J4JS+c5mSFzYEPx/AYlj+FtHuHw=
+
+Name: assets/Resources/images/series/prescriptions/layer_16.png
+SHA1-Digest: NvgfiGG3pHHMJJWNe2KUR/umw6o=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: BoLkfiIFe77i34exfP7BramG/ho=
+
+Name: res/color/switch_thumb_material_dark.xml
+SHA1-Digest: pGAUusv1CKSLzRei7QqO7ooViVU=
+
+Name: assets/Resources/images/series/family_care/layer_21.png
+SHA1-Digest: hiwJO2ObAiqrzXZ3ljLGjjK2tgE=
+
+Name: res/drawable-xhdpi-v4/abc_ic_search_api_mtrl_alpha.png
+SHA1-Digest: 01+2TEE2CX2Z5YXlPeH2ccbDiMI=
+
+Name: assets/Resources/images/series/refill/layer_17.png
+SHA1-Digest: eOCJcYyPQf6Uui32mbAnsY9KYGA=
+
+Name: res/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png
+SHA1-Digest: qQpaYoGWL908h/WoyV81hrJSp9E=
+
+Name: res/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+SHA1-Digest: aGoDqShCvfRBOcYadujzbODhe1U=
+
+Name: res/color/abc_primary_text_disable_only_material_light.xml
+SHA1-Digest: 6od0vGmrLm6XdaiABlPHwoV98gU=
+
+Name: res/drawable-ldrtl-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: PpIbY/dh7zP5/O4GFNAAVkekQWs=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: 3WOChYu3Ms2kyEHXijAnPBxAgRA=
+
+Name: assets/Resources/appicon.png
+SHA1-Digest: +WmRYMOMZ7+9kKN3x8sFCXOAlF8=
+
+Name: res/color/abc_secondary_text_material_light.xml
+SHA1-Digest: 3QCL0R7lVL6yMVwkW425OxsgLrE=
+
+Name: res/layout/abc_list_menu_item_layout.xml
+SHA1-Digest: VAWZQkQJ4lY7OpBiDkNAr5ulpj0=
+
+Name: classes.dex
+SHA1-Digest: A3wqqtTFBushEMs0HwVI1C3yHC0=
+
+Name: assets/Resources/images/series/app/layer_16.png
+SHA1-Digest: lzplM0rJ6guxEiCO0VivnL0vtqo=
+
+Name: res/layout/abc_screen_content_include.xml
+SHA1-Digest: I0XhxToBYYheN5McJw7atfXMFJE=
+
+Name: assets/Resources/data/image_info_pl_1
+SHA1-Digest: TaGQ9IPviNlDOXju33fRmIQGGzY=
+
+Name: res/drawable-xhdpi-v4/cast_ic_notification_0.png
+SHA1-Digest: SC6BEoWbQN0P2/j+7oI2UDRWh3w=
+
+Name: assets/Resources/images/series/refill/layer_2.png
+SHA1-Digest: MRZe+oS7b3eg3dGV2EF55MPcg2Q=
+
+Name: res/layout-v21/titanium_ui_date_picker_spinner.xml
+SHA1-Digest: z122El8gSOtBOudtQ0EmdgcXwFI=
+
+Name: res/drawable-xxhdpi-v4/powered_by_google_light.png
+SHA1-Digest: i1ZTqep+pgKdIhB18Xwu3c7KrFI=
+
+Name: res/anim/activity_close_back.xml
+SHA1-Digest: +JIkaPh2hN7ZbGhpdMDC6LXphXk=
+
+Name: res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: urO61Hm8iUUgfpKvVTlbZTRGGzE=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+SHA1-Digest: li/0sswRDphsyRx6Og2NrX1iiB4=
+
+Name: res/layout/notification_template_big_media.xml
+SHA1-Digest: iPYSWP73GrdS254QoSsQ78zDHcs=
+
+Name: assets/Resources/images/series/app/layer_4.png
+SHA1-Digest: jrfhzYO3niN8t646x6+nGBXxUVc=
+
+Name: lib/armeabi-v7a/libcom.obscure.keychain.so
+SHA1-Digest: 7HXcbbfkaKNMXyuEicjKzcPU7ss=
+
+Name: org/appcelerator/titanium/res/drawable/btn_picker_pressed.9.png
+SHA1-Digest: 1i87o9qofZs5zBwGVgQkZuhK2oA=
+
+Name: res/drawable-mdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+SHA1-Digest: wyVY1u/Vb2qez4fUWrFEL5DsW/w=
+
+Name: res/drawable-ldrtl-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: LVFgBAoPE9W6WKtEYtOUGWf+dzk=
+
+Name: res/drawable/btn_more_64.png
+SHA1-Digest: wXAdGYnA952hX1pePdgkpyhIXGk=
+
+Name: res/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.
+ 9.png
+SHA1-Digest: 3u3fLmehvZBhy/5ikwcph94VGWM=
+
+Name: assets/Resources/images/series/family_care/layer_23.png
+SHA1-Digest: QaDeocylQePqCVJSimOIM/xQRNM=
+
+Name: res/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+SHA1-Digest: RwOTCkvoy8JfKjFQZXnNiOHbxpQ=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_disabled_light.9.png
+SHA1-Digest: 8t8fYpBPxPeFuWeBGdYiV/u6+vM=
+
+Name: lib/armeabi-v7a/libti.imagefactory.so
+SHA1-Digest: hyNAlkCXHPJi7jQd3Vuf0u8coog=
+
+Name: assets/Resources/images/series/prescriptions/layer_7.png
+SHA1-Digest: uJ0+t1ojFlmjBxshQccSlRfBWjU=
+
+Name: assets/Resources/images/series/refill/layer_13.png
+SHA1-Digest: pvGg43Ji/9t0uH3YAfXZBNGY1t0=
+
+Name: res/xml/preferences.xml
+SHA1-Digest: mbQC1QK0XT2RI1LU31EL277SajM=
+
+Name: res/anim/abc_slide_out_bottom.xml
+SHA1-Digest: GcBbKJcMWdQ42ssCQexb9kGH6us=
+
+Name: res/drawable/switch_thumb.xml
+SHA1-Digest: IVa0v/yxUCxb9cmmeCfyu7KZt1s=
+
+Name: lib/armeabi-v7a/libti.barcode.so
+SHA1-Digest: vXhOm9+bpNx47+z+5E56Y5BcZTc=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+SHA1-Digest: Vhfvv1y0wkBw2X/iXEqs7JGlm+o=
+
+Name: res/drawable-mdpi-v4/abc_list_focused_holo.9.png
+SHA1-Digest: jJIIxBXFlVwxMesuJlFFhjvLhPM=
+
+Name: assets/Resources/ti-qrcode-master/qrcode.html
+SHA1-Digest: mJOqXK/N4hb7Fs4pH4dNZu0kaXc=
+
+Name: assets/html-en/index.html
+SHA1-Digest: 4X26aj2LQTwLVCC6d8r41Kannfk=
+
+Name: res/anim/activity_open.xml
+SHA1-Digest: +p6OyMHwvlcQHuTULm8ftXw5830=
+
+Name: assets/Resources/data/image_logo_hamburger_pl_1
+SHA1-Digest: 5C8VilwY8upB367630PSXXvbGII=
+
+Name: assets/Resources/images/series/family_care/layer_11.png
+SHA1-Digest: odsa/4LlXfGe5+JSBumx9CUiWg8=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: T7jCCqaBHZydFrghJhlARmdI7xk=
+
+Name: assets/Resources/images/series/exp_pickup/layer_16.png
+SHA1-Digest: yauSqmKlm7Qjspye7OkZt5RZpqQ=
+
+Name: assets/Resources/images/series/refill/layer_12.png
+SHA1-Digest: tadR7uR6NEBeQqq8KCOu76WdTVE=
+
+Name: assets/Resources/images/series/app/layer_10.png
+SHA1-Digest: Gg+7MaaTnUjbDCJqs9ioPT+/Fwg=
+
+Name: assets/Resources/images/series/refill/layer_26.png
+SHA1-Digest: ixgv57zt9VVCk3o7Aw6F8N3pc3I=
+
+Name: assets/Resources/images/series/reminders/layer_12.png
+SHA1-Digest: FKmaRsH/nBXaX6fJAxwk1TqTxNg=
+
+Name: res/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+SHA1-Digest: L12XNgC05BSQghB6JCrs8Us9eEo=
+
+Name: assets/Resources/images/series/prescriptions/layer_8.png
+SHA1-Digest: DI8tDSVhhtWxh7NarC9IJ63tOC8=
+
+Name: res/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: h5X7BIPdIFf8dpb/b/WA1vYdwkc=
+
+Name: res/drawable-long-port-xxhdpi-v4/background.png
+SHA1-Digest: yJdISsr+JJSLjoZf8+2PZfJTJrk=
+
+Name: res/drawable-mdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png
+SHA1-Digest: ZmICAFoCZUqAcxhJFOHv8kxXF88=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: Wl0x3/PQYrRDwagaXHH4f7mABgs=
+
+Name: res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA1-Digest: IwzRNkVJWfy8agwdJdTuG1InFsM=
+
+Name: res/drawable-xhdpi-v4/cast_ic_notification_1.png
+SHA1-Digest: NrEGClY641EfvHXtY4n1ZGpEMx0=
+
+Name: SDKONLY_LICENSES
+SHA1-Digest: aM4Xd/RWSCNvN4To1g/3QKhBfQ0=
+
+Name: lib/x86/libti.push.so
+SHA1-Digest: LscArY7i05UeREROYHZtRLy94AM=
+
+Name: res/color/switch_thumb_material_light.xml
+SHA1-Digest: nT/czByRZ7wN4FXZ4tTOXyKLdTg=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: pCIvTjWlEd+72lf6cxDeEv/N0Pg=
+
+Name: assets/Resources/images/series/exp_pickup/layer_8.png
+SHA1-Digest: qgodek4JUGf+RLGzf5oRcosNnc8=
+
+Name: assets/Resources/images/series/family_care/layer_19.png
+SHA1-Digest: jjaLzfh/Z9gDLcGUkACyUrl/mss=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_disabled_focus_light
+ .9.png
+SHA1-Digest: pt2sGm+R9IKa/yNYVOguoJ1i7qI=
+
+Name: res/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+SHA1-Digest: qRi0Z7m8zSxTZklK9xSdgATWCCs=
+
+Name: res/drawable/abc_spinner_textfield_background_material.xml
+SHA1-Digest: BdxAZ5wxqqrv5Ec6stvTe5qCY4U=
+
+Name: assets/Resources/images/series/exp_pickup/layer_5.png
+SHA1-Digest: qHTdeWJvPvuaaiM6UkzBRJhQHok=
+
+Name: res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png
+SHA1-Digest: Txi4nHde0NvRVGH4WjelV6dyOKU=
+
+Name: res/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png
+SHA1-Digest: 0MMPUBC/hxFmt1Ak92Vmj3X0hfs=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: YA4050FPgpAFuw6xQI3jFSgIwVQ=
+
+Name: org/appcelerator/titanium/res/drawable/btn_more_48.png
+SHA1-Digest: FX9/SNQlHRDAEqxfPIV4YeE3Qo0=
+
+Name: res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png
+SHA1-Digest: tbKOWkoq8X/O9SqZLE2Z7VwIrfw=
+
+Name: assets/Resources/images/series/exp_pickup/layer_6.png
+SHA1-Digest: /wp2NiCZqHvp7GHu5yZgE017hDU=
+
+Name: lib/x86/libti.ga.so
+SHA1-Digest: JRLDHP9GBVuhZzlfiBft5auqfxw=
+
+Name: res/layout/select_dialog_multichoice_material.xml
+SHA1-Digest: 3uHIm3VOKj5bfW+34UYWbJAz2TE=
+
+Name: res/layout-v17/abc_search_view.xml
+SHA1-Digest: r4U4MQRcSrG/8Y/aM/pdk1ecgIY=
+
+Name: res/drawable-xxhdpi-v4/ic_plusone_medium_off_client.png
+SHA1-Digest: /7bw14nZmssFy3hqySiiFfoRLtE=
+
+Name: res/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.p
+ ng
+SHA1-Digest: Uaax8TsSlV1ssfdd4JM/P9lAyjc=
+
+Name: lib/armeabi-v7a/libti.ga.so
+SHA1-Digest: JyAxVHSZ8+gyNVgT92lADwMplag=
+
+Name: lib/armeabi/libti.ga.so
+SHA1-Digest: PGmiwYu3yf6Nog85vFZJ6iTj2tQ=
+
+Name: ti/modules/titanium/ui/widget/webview/polling.min.js
+SHA1-Digest: i9X+br++ONr6j7swtLmLNO1IPh8=
+
+Name: res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: QZ9FkSY1uLrLNUoYvFP8D6yQGLQ=
+
+Name: assets/Resources/data/image_qr_bg_pl_1
+SHA1-Digest: vxXKX5K6CuVCX+j/l2kinulSOVE=
+
+Name: res/drawable-hdpi-v4/shopper_icon.png
+SHA1-Digest: cJWwMoDzETbUItXVRSz37IFmYLU=
+
+Name: res/layout/abc_action_mode_bar.xml
+SHA1-Digest: hlxrbIZwdPpumay4V48aoS6Sd50=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: 0sCo4kwonCjyXdol2LjGSe4b7T8=
+
+Name: res/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+SHA1-Digest: 07+MMsIKk8a3BObx9eEkeKwYSSk=
+
+Name: res/drawable-notlong-port-xhdpi-v4/background.png
+SHA1-Digest: 2234Yd+YeM1dmx9JqqHEBahvXXU=
+
+Name: res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9
+ .png
+SHA1-Digest: YsHF4VJihRr1oEZ76cu42zsHjek=
+
+Name: res/anim/abc_fade_out.xml
+SHA1-Digest: MTJWZc22b5LNeBboqBhxcQh5xHQ=
+
+Name: res/color/abc_background_cache_hint_selector_material_dark.xml
+SHA1-Digest: rUsNlUWa4ZlHZQJO54UGf1VCPlw=
+
+Name: res/drawable-mdpi-v4/ic_plusone_small_off_client.png
+SHA1-Digest: 5whZWZwuRck5OpUfQtK68/nh9Ac=
+
+Name: res/layout/titanium_ui_checkbox.xml
+SHA1-Digest: K4j7QR6Eb0RUcjnnQyaA3gHvoJs=
+
+Name: res/layout-v17/abc_alert_dialog_material.xml
+SHA1-Digest: oTWrOgOZQ5GdE22sLo7c8FJCUpI=
+
+Name: res/drawable-ldrtl-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: nBTvyBGxoYOwtEimwriJiCjISkk=
+
+Name: lib/armeabi/libappcelerator.https.so
+SHA1-Digest: P9VBf4byq+d2CWAmCNFx7uEtx4s=
+
+Name: res/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png
+SHA1-Digest: WYYEXP9zXPHmkO70T8BA20aSj+U=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: kDSszDiZe8hk35ju9SuJSIV4H/c=
+
+Name: res/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: h7WKJOQ+CvsX1YPCFxUDpu+6vDo=
+
+Name: res/layout/abc_popup_menu_item_layout.xml
+SHA1-Digest: veUVApHZUkLjGtbDgjFcIWk6Co8=
+
+Name: res/drawable-xxhdpi-v4/appicon.png
+SHA1-Digest: 3LAKFXUJUGIPGP0F7fLlbuBtG8M=
+
+Name: res/drawable/abc_dialog_material_background_light.xml
+SHA1-Digest: 1igqyKqdu2eQa6/HYJ3xwqX2C54=
+
+Name: res/layout-v17/notification_template_part_time.xml
+SHA1-Digest: U+IFD8vqfrcWM3WUG1uuCBq5c9g=
+
+Name: res/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png
+SHA1-Digest: BLQq1kPx0/JPxPxgp/MrxD6Ft1Q=
+
+Name: assets/Resources/images/series/app/layer_17.png
+SHA1-Digest: 2+oMoicZYHSRRCrkDyHr49IJo7A=
+
+Name: res/drawable-long-port-ldpi-v4/background.png
+SHA1-Digest: CZnEL7oKjL8MIrhC1ILJFFTYoWU=
+
+Name: assets/Resources/images/series/app/layer_8.png
+SHA1-Digest: 7hf2vuyAxwjbruRtndUju5GXr6I=
+
+Name: org/appcelerator/titanium/res/drawable/background.png
+SHA1-Digest: K27yECV6/M/olCc+FR8yMgYIqgo=
+
+Name: res/drawable-hdpi-v4/powered_by_google_dark.png
+SHA1-Digest: I/G/mu9XuPJTzwp/WdZLjQ6xTfg=
+
+Name: res/drawable-xhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png
+SHA1-Digest: Ika054E+8Y/VzNsUIw/SsVUES7w=
+
+Name: res/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+SHA1-Digest: Lf9oPArTwtMs8sww7bxXhRMt+IY=
+
+Name: res/layout-v21/drawer_main.xml
+SHA1-Digest: tedGwrSUK8OMGT7UUv3lTPq0UTI=
+
+Name: assets/Resources/images/series/reminders/layer_13.png
+SHA1-Digest: fl8au940E+FUTNy+OPtTM3qhiVE=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_disabled_light.9.p
+ ng
+SHA1-Digest: Jo7euj4LvkDv54RWdIWxYYLnMbg=
+
+Name: lib/armeabi-v7a/libti.push.so
+SHA1-Digest: yT3HL2YPU6/lmA80JMpKwY7Hc5A=
+
+Name: res/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+SHA1-Digest: H53d9SOkoWezKsVvcOALraOdTFo=
+
+Name: res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+SHA1-Digest: Liu4ZSvXVbRTfKfw/Sf1BCXStdc=
+
+Name: res/drawable-mdpi-v4/ic_plusone_tall_off_client.png
+SHA1-Digest: 3ocjamXiDDzZQ9Er9Iv+AG/CvIc=
+
+Name: res/layout/titanium_tabgroup.xml
+SHA1-Digest: 46q3dHG18rwpO8M2lb0+2Gaqwxo=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_disabled_dark.9.pn
+ g
+SHA1-Digest: Jo7euj4LvkDv54RWdIWxYYLnMbg=
+
+Name: res/drawable-long-port-hdpi-v4/background.png
+SHA1-Digest: slvC9S2XTauaUr3/FRZAj7PDAIg=
+
+Name: res/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: co+pW0+xme4l0m6WE+SgOOn2PRc=
+
+Name: assets/Resources/images/series/refill/layer_6.png
+SHA1-Digest: c+TgT4VYkS4Ahl7R/N83z6tRMXU=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: xa+o97ZNQDyD6tCp4L4gmqdoPrs=
+
+Name: res/drawable-xhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+SHA1-Digest: 8QLweU4p1rehkS9Zii3jepzESPg=
+
+Name: res/layout/share.xml
+SHA1-Digest: yMmKZEDf6bfEWxylp+zc4T84fAI=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_disabled_light.9.png
+SHA1-Digest: FMoZxbKyy1t4RWJZNFgkkfl6R2I=
+
+Name: res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.pn
+ g
+SHA1-Digest: vq3AaVX19jU0c0v1npZsAQOh+CI=
+
+Name: res/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png
+SHA1-Digest: 1cM4Lqe0dpCkVQKw5EUonmsdlsk=
+
+Name: lib/armeabi-v7a/libcom.mscripts.androidkeychain.so
+SHA1-Digest: w5uxmGhajiG5KA1gpg+XCBhL5YU=
+
+Name: assets/Resources/images/series/exp_pickup/layer_9.png
+SHA1-Digest: 2IMqRRb5WpxbSJo7ucr49T/9+6M=
+
+Name: res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: sSo2eVyCVNeDBah+XyDsR3c+eao=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: 8t8fYpBPxPeFuWeBGdYiV/u6+vM=
+
+Name: res/layout/select_dialog_item_material.xml
+SHA1-Digest: Zv9GJQUCVDg62qudjqdnEQoKzVw=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_disabled_light.9.pn
+ g
+SHA1-Digest: pCIvTjWlEd+72lf6cxDeEv/N0Pg=
+
+Name: res/layout/notification_template_part_time.xml
+SHA1-Digest: HtMDzqozwyw5Q2r0fQ9sFiglCn4=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+SHA1-Digest: 0X9TT99BcftPy4eHwS3wQ6LDxKc=
+
+Name: assets/Resources/images/series/exp_pickup/layer_7.png
+SHA1-Digest: IT3V4C6zrN+CVYtAoEnbtNc/GOI=
+
+Name: res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+SHA1-Digest: Em+RG3PBsy1WmstVYnpHur7/d2o=
+
+Name: assets/Resources/images/series/prescriptions/layer_2.png
+SHA1-Digest: gW89/Rx2piw5vNB+Gb54UJ8sKAw=
+
+Name: assets/Resources/data/image_reminders_refill_benefits_pickup_pl_
+ 1
+SHA1-Digest: yV1uJ5eaEhnyxTVPDpswQcDWeOA=
+
+Name: res/layout/abc_select_dialog_material.xml
+SHA1-Digest: W43LOCP0xNC9YNH24vDAHFtIUkg=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_disabled_focus_lig
+ ht.9.png
+SHA1-Digest: UnGnluRjvPtWCPTuaQl6cAdhCys=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+SHA1-Digest: zswdlAwmLMUdC8KexYY+VmSOxS8=
+
+Name: assets/Resources/images/series/exp_pickup/layer_1.png
+SHA1-Digest: QCLLKXNsRwnW0v9II7Q1g+TiOeY=
+
+Name: res/drawable-notlong-land-xhdpi-v4/background.png
+SHA1-Digest: 9SO1bNlnwZoj0d9WZHSCNqD6IJk=
+
+Name: assets/Resources/images/series/family_care/layer_13.png
+SHA1-Digest: rhQ2Qeu/WYfQW/DSAVDbjeVpZHY=
+
+Name: res/drawable-xxhdpi-v4/cast_ic_notification_0.png
+SHA1-Digest: wiFr7HkUAmyXa2FnNtgR6idKpcw=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: 53DYKltMU34zhaYZHtlNZkme+Co=
+
+Name: assets/images/search-book-contents.jpg
+SHA1-Digest: hw5EWZDGkuoW6VhX9AHxh87bzKE=
+
+Name: res/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+SHA1-Digest: OBH4hLkDJ7tyFICiDb9yXbQUU0M=
+
+Name: res/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png
+SHA1-Digest: S/+WIalIT7QGoZ4J/VOqr0XEGEM=
+
+Name: assets/images/demo-yes.png
+SHA1-Digest: UU6DUYUb2qFlGsTcNhFdOZWCvL0=
+
+Name: res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.p
+ ng
+SHA1-Digest: D6dilO+UMcglambujyMOhNbLZuY=
+
+Name: res/drawable-notlong-port-hdpi-v4/background.png
+SHA1-Digest: iPVJD474z0esszd8ZUQHgzeqAIA=
+
+Name: res/layout/abc_search_view.xml
+SHA1-Digest: 3YQF288ys36mM4cTaQ2YFAB3Pz0=
+
+Name: assets/Resources/images/series/prescriptions/layer_17.png
+SHA1-Digest: fMRwBs9BYrhZYDMGnRzE68bQyKY=
+
+Name: res/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: 6tbYXJzP23CYwmZO6OyfgxmQ+eE=
+
+Name: lib/armeabi-v7a/libstlport_shared.so
+SHA1-Digest: iY0bdvEtYus85TlOJkpMG49c09A=
+
+Name: res/drawable-mdpi-v4/ic_drawer.png
+SHA1-Digest: oEBwHFwbGNOsYI6B/hyBfPjb5bI=
+
+Name: assets/Resources/data/image_rx_sample_pl_1
+SHA1-Digest: N3FVwxEsNGK3ZH5hpE9kXzsTGi8=
+
+Name: res/drawable-mdpi-v4/ic_plusone_standard_off_client.png
+SHA1-Digest: 5mRZ2sFLI0LRLV8zEdkzMhgnR9I=
+
+Name: res/drawable-xhdpi-v4/ic_plusone_small_off_client.png
+SHA1-Digest: vBwm0ihe3tJu932F0b7IvAec1Ho=
+
+Name: res/color/abc_search_url_text.xml
+SHA1-Digest: Iythwm7qlsgcFwaNmtaBuaUY1PE=
+
+Name: assets/Resources/data/image_tip3_pl_1
+SHA1-Digest: NqdAGCW6/YNpS9eETKsEFri5b5o=
+
+Name: res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+SHA1-Digest: F15Y7TDgoQ90hOj/LqmJmzvUv5I=
+
+Name: res/drawable-hdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+SHA1-Digest: K8Ka36v5Gp/Ky4ixaQLv2738fYc=
+
+Name: res/drawable/share_via_barcode.png
+SHA1-Digest: EnsnpDRevp5lBWje24sfD/LpVt0=
+
+Name: res/drawable-xxhdpi-v4/ic_plusone_standard_off_client.png
+SHA1-Digest: meTbFvJL0s3oA4sDj2GzpobVb3Q=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_disabled_focus_dark.
+ 9.png
+SHA1-Digest: pt2sGm+R9IKa/yNYVOguoJ1i7qI=
+
+Name: assets/html-en/sharing.html
+SHA1-Digest: 4lo4RlVWNJS5wRmnJu7yaYHi/48=
+
+Name: res/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: LHNDVgsME9Yj4JPg5CLyVd0Eld4=
+
+Name: res/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png
+SHA1-Digest: rkfYN21U5rNNgOOcXyHtDvlAuDE=
+
+Name: lib/x86/libcom.obscure.keychain.so
+SHA1-Digest: Swl2XOPTdOueiL0BgjjP25eddp0=
+
+Name: res/drawable-notlong-port-xxxhdpi-v4/background.png
+SHA1-Digest: xiPEA3UjNm8o6xl3+sbQ8Y55Yws=
+
+Name: assets/Resources/images/series/prescriptions/layer_1.png
+SHA1-Digest: +F+wb8NJSdLTCGsC/56DuUCoYpk=
+
+Name: res/drawable-hdpi-v4/common_ic_googleplayservices.png
+SHA1-Digest: VI4dX5B2Y48SEkB7kbHeKlBvZ4s=
+
+Name: res/layout-v17/notification_template_big_media.xml
+SHA1-Digest: QKtV0lwq5Bpk5H+KjZtJBW0YCtw=
+
+Name: res/drawable-ldrtl-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: u6/uL8RpuH0uA4j5k6GHmFtKKaA=
+
+Name: res/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png
+SHA1-Digest: f5w1/P3BOViOfigUbV/eR0uuTmE=
+
+Name: res/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+SHA1-Digest: MMKza6JKYuNGEA2ptbmO2mvznAs=
+
+Name: res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA1-Digest: /hpvHveM+a3Mx49n/3P19bBBgiI=
+
+Name: lib/armeabi-v7a/libcom.tripvi.drawerlayout.so
+SHA1-Digest: kBvXhyJ73y6rYCFwH2hMxkLbgq4=
+
+Name: res/color/abc_secondary_text_material_dark.xml
+SHA1-Digest: ox7DPowE7BpimtfoxgquLGhj/Sw=
+
+Name: res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+SHA1-Digest: cK/LCW7Y07tXQ8e5BdotU64US0I=
+
+Name: res/drawable-xhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+SHA1-Digest: O8Z06QMHIiY6mn0VcP1u0gFV31s=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: qUes7E1WY2JY7Fd6HKCYNy966/o=
+
+Name: assets/images/contact-results-screen.jpg
+SHA1-Digest: yJDEDzLeh9R+IFvrWkx0Z9ScPo0=
+
+Name: assets/Resources/images/series/refill/layer_15.png
+SHA1-Digest: 4VHi9lwm5vCl5lR4B1Ry3j9xkBo=
+
+Name: res/layout/abc_list_menu_item_icon.xml
+SHA1-Digest: RUBgHAnktBFWpzsEr5iHTa6WgrE=
+
+Name: res/color/common_signin_btn_text_dark.xml
+SHA1-Digest: 6zNzYXvkhdwC6zfT2Z60WudQYGM=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_disabled_light.9.png
+SHA1-Digest: 92pHkmawW9x95wDQw6uvTZBRXkQ=
+
+Name: assets/Resources/data/image_expcheckout_benefits_pl_1
+SHA1-Digest: wvs5pcOGhPLM1S0wIi6iAiNAF80=
+
+Name: res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png
+SHA1-Digest: f5w1/P3BOViOfigUbV/eR0uuTmE=
+
+Name: assets/Resources/images/series/refill/layer_4.png
+SHA1-Digest: NIKkoStAWLqqCuBmM4bKqqbfLAE=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_disabled_light.9.png
+SHA1-Digest: VfF1Y+3CjDiM4dG+tUnOEInJ2T8=
+
+Name: res/layout/drawer_main.xml
+SHA1-Digest: 3CZxZ4+Uc8IHGiHHizkPc7sSQSQ=
+
+Name: assets/Resources/images/series/exp_pickup/layer_3.png
+SHA1-Digest: 6LGfB5DHanSGAZkNIrkDDAYnCjk=
+
+Name: res/layout/abc_action_menu_item_layout.xml
+SHA1-Digest: I9815gsnTbJF5fe7Jx9IUYhoeMc=
+
+Name: res/drawable-long-port-xhdpi-v4/background.png
+SHA1-Digest: 2234Yd+YeM1dmx9JqqHEBahvXXU=
+
+Name: res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: WXKtpz66pJSKelShj899BDnb29U=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_pressed_light.9.pn
+ g
+SHA1-Digest: MNi9MV8wCkdDwmYH6J7+SbIAI1k=
+
+Name: res/drawable-mdpi-v4/ic_plusone_medium_off_client.png
+SHA1-Digest: W063SlyrzTvVLq8T+B8TBmOdWCk=
+
+Name: lib/armeabi/libti.barcode.so
+SHA1-Digest: ut7skU1Fe/JrBuEAfFoDd8SqyfQ=
+
+Name: res/drawable-ldrtl-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: 2X8cqpjgNrAZoH3+79fyxaDMXag=
+
+Name: assets/Resources/images/series/refill/layer_9.png
+SHA1-Digest: bDgf8mfro2cpR+bkoM4y+BUxxP4=
+
+Name: res/drawable-mdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+SHA1-Digest: mptNldfmeW+3UMDCxkF8SKDyWhU=
+
+Name: assets/Resources/images/series/reminders/layer_11.png
+SHA1-Digest: 3ObNNtSb3tRsP5pGCxcGk9doEBA=
+
+Name: assets/Resources/data/image_logo_white_pl_1
+SHA1-Digest: qqMc4MRd9DyuTl/kg2U6R8pAfnA=
+
+Name: org/appcelerator/titanium/res/drawable/btn_more_64.png
+SHA1-Digest: LC+kW/zJXrZxJTgK2oukNSK30Xk=
+
+Name: res/layout/titanium_ui_spinner.xml
+SHA1-Digest: HD/o/SwmoE7hMhMRwxT/Xe4Rj5c=
+
+Name: assets/Resources/images/series/prescriptions/layer_14.png
+SHA1-Digest: 4ZB+/RFTFpd9uY3hXIpi8hHz+JQ=
+
+Name: res/drawable-tvdpi-v4/ic_plusone_standard_off_client.png
+SHA1-Digest: bCfalDf3dtwVG4mH7KjMYlR/m8c=
+
+Name: res/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png
+SHA1-Digest: NEzW4zoMMbhBTuHj7VUy7DpUm+M=
+
+Name: res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png
+SHA1-Digest: KQunCQh0E4bP0utgN0cHdQr9OwA=
+
+Name: assets/html-en/scanning.html
+SHA1-Digest: r2VmjUE2n8ftlmNzwNk24x3cuKo=
+
+Name: res/layout/notification_media_action.xml
+SHA1-Digest: dKLs/Pkt+Ubn/cMWrw/rKLfkTFM=
+
+Name: res/drawable-long-land-hdpi-v4/background.png
+SHA1-Digest: pIP2Fr2M8aHnKQ2xgUc4WJg9eCw=
+
+Name: assets/Resources/data/image_logo_pl_1
+SHA1-Digest: 0FZFIJcxOJjar00xE4iT3NgeOus=
+
+Name: assets/Resources/images/series/prescriptions/layer_5.png
+SHA1-Digest: hE+SAvc9One1kDh29DiKNIrxAMg=
+
+Name: assets/Resources/images/series/prescriptions/layer_20.png
+SHA1-Digest: 4n+/93CyM/h69g3+aPK9FdEhVyc=
+
+Name: assets/Resources/images/series/refill/layer_3.png
+SHA1-Digest: 1N4I6UfVtTx8NuyFaCg5b0PYHK8=
+
+Name: res/drawable/abc_tab_indicator_material.xml
+SHA1-Digest: lwv22fQAvdrYPUw6+4NJztSnnVo=
+
+Name: res/drawable-xhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png
+SHA1-Digest: k6w3Rt+wcCPl35s+T2nLmf5yoTo=
+
+Name: res/drawable-xhdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: ay7u9Xb5KPaybKcPoRzUvbBA+ac=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_disabled_focus_ligh
+ t.9.png
+SHA1-Digest: KfT1DbEuXyhvG18n0yILeVsK0Vo=
+
+Name: res/drawable/abc_list_selector_holo_dark.xml
+SHA1-Digest: pKOOi7+LUgOlUWrqV0H80rjCF/A=
+
+Name: assets/Resources/images/series/app/layer_14.png
+SHA1-Digest: ikcHDU58V/dngKEe+XpZHKgsruo=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: pyKGvlDIcuabjUP3XyADkEc6qG4=
+
+Name: org/appcelerator/titanium/build.properties
+SHA1-Digest: 6v1B+BYadngxl7R+6NGeS0lieBA=
+
+Name: res/drawable-mdpi-v4/powered_by_google_light.png
+SHA1-Digest: ZTHLPZe63ATwVGAlXju4hnecsME=
+
+Name: assets/images/scan-example.png
+SHA1-Digest: LkreLH5u7NR+Rmu0xY3wETGU9gk=
+
+Name: res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: XLry23W3UCMpOPhli1Oij+WH1x4=
+
+Name: res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA1-Digest: OGTAGSMNcF0Z/ZC0uBc4qemdptI=
+
+Name: assets/Resources/images/series/reminders/layer_2.png
+SHA1-Digest: MRZe+oS7b3eg3dGV2EF55MPcg2Q=
+
+Name: assets/Resources/images/series/reminders/layer_8.png
+SHA1-Digest: M5oBevbGkxlQWvNnenN70dsJsHU=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: 6EhOa4/oB8DfxfsC8xA0CtqQOKA=
+
+Name: assets/Resources/images/series/prescriptions/layer_10.png
+SHA1-Digest: R48lplOVuLqM3Zqz/QLiPbSu4EA=
+
+Name: assets/Resources/images/series/app/layer_11.png
+SHA1-Digest: s4U5by7h+o0SWfop1gRRBuhXt04=
+
+Name: assets/Resources/images/series/reminders/layer_6.png
+SHA1-Digest: cJmKG73jNAMlVWQzAzGpGWXe2NQ=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: +96NH1NJOncqgaIjD9wfzefrtIw=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: XfiPEQDAz6Ng5Q70xPZblJiqGT8=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_disabled_focus_dark
+ .9.png
+SHA1-Digest: R0rCQap54Xf4ElOYS7zj9TUQB6s=
+
+Name: res/drawable-hdpi-v4/abc_ic_go_search_api_mtrl_alpha.png
+SHA1-Digest: wggblUkcuOPGigm90qzU/eHfgxU=
+
+Name: assets/Resources/images/series/family_care/layer_3.png
+SHA1-Digest: 3ifCuIzj0UCkMOUBGnzpd/q7pTk=
+
+Name: res/drawable-hdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: ay7u9Xb5KPaybKcPoRzUvbBA+ac=
+
+Name: res/drawable-long-land-xxxhdpi-v4/background.png
+SHA1-Digest: VJpSeoIeTIaiFF48aVoehGmGmqE=
+
+Name: res/color-v11/abc_background_cache_hint_selector_material_light.
+ xml
+SHA1-Digest: fwWpgiU0GiBb4Uo1uHeANRi27bM=
+
+Name: res/drawable-hdpi-v4/powered_by_google_light.png
+SHA1-Digest: 1p8HkYSQc6asTjUOCQeAiFfr8oU=
+
+Name: res/layout/abc_alert_dialog_material.xml
+SHA1-Digest: vA60OTyDZ4DmhABrvEJuURwvcZo=
+
+Name: res/drawable-hdpi-v4/appicon.png
+SHA1-Digest: x+ApC/pFYmJwJowghkEEaCskByc=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+SHA1-Digest: qyyA8++tpZMeE5woicJ8hRb+SDY=
+
+Name: res/drawable-notlong-port-ldpi-v4/background.png
+SHA1-Digest: 2jl6G26XEoeTF0NyuxhqxRdT1TQ=
+
+Name: res/anim/abc_popup_enter.xml
+SHA1-Digest: ZsUOfq1qZHfbrAD9fN7Rk2Da14A=
+
+Name: ti/modules/titanium/ui/widget/webview/binding.min.js
+SHA1-Digest: YnvpzXhaQ7fCPeoOws9QuGfTXQM=
+
+Name: res/drawable-ldrtl-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: gjBGCmII8XLlMBwPi/vAnb2huQ8=
+
+Name: res/layout/encode.xml
+SHA1-Digest: AUykwiuyqA4IRGs7wp2SCKoTdzE=
+
+Name: assets/Resources/images/series/family_care/layer_7.png
+SHA1-Digest: KqSFwg3fhuLg5XoNviLJ/QdEdyc=
+
+Name: res/color/wallet_secondary_text_holo_dark.xml
+SHA1-Digest: 6ef553mCOXiwXQnyKrn/LmqkJOY=
+
+Name: res/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+SHA1-Digest: z0xEJNNl6qN3MKa3Uq4y93mF7Cw=
+
+Name: res/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+SHA1-Digest: CBej+P8bwYybMFQCDCEkHRsc8Sk=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_clear_mtrl_alpha.png
+SHA1-Digest: SssY7Y+JSwie7CyWtCNGPabvucs=
+
+Name: res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+SHA1-Digest: tB4B5H9j3pm0Xv62OAovdHEjuyk=
+
+Name: res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA1-Digest: O6x52IgsWeKV4Xdu5U2H2IxbVgc=
+
+Name: res/layout/search_book_contents_header.xml
+SHA1-Digest: MgUrDS5BiJHeezIj00b/RNdILIQ=
+
+Name: assets/Resources/images/series/app/layer_18.png
+SHA1-Digest: 7sRTOf9kV2eIPFF2piMrStdvLdI=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+SHA1-Digest: RXME9rsLesqqCazNEACF/4ZKlS4=
+
+Name: res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.pn
+ g
+SHA1-Digest: bwjSzuahpvwVgJavscLUKen/ZqQ=
+
+Name: assets/Resources/images/series/refill/layer_22.png
+SHA1-Digest: Z6lBDsf2bZCq/1KVjnc6VAGvPSg=
+
+Name: assets/Resources/images/series/family_care/layer_15.png
+SHA1-Digest: h4pqDyZKQfUkOjYXZTf0hVo7VlE=
+
+Name: res/drawable-ldrtl-xxxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: lSzbhln6wiB5ZJ+07NxXXd4xalI=
+
+Name: res/layout/abc_action_bar_title_item.xml
+SHA1-Digest: XwQoa6d0BfIwgHg6pgSLnyFufBo=
+
+Name: res/drawable-hdpi-v4/ic_drawer.png
+SHA1-Digest: hdZDW6JoW+EzbUmnv2tXeycSWHw=
+
+Name: res/layout/search_book_contents_list_item.xml
+SHA1-Digest: +N1Rno7iPETiDMgcewyjGe+6o98=
+
+Name: res/layout/notification_template_part_chronometer.xml
+SHA1-Digest: Sm8BspNzT3J+pyG6C1BEFhnPmMA=
+
+Name: res/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+SHA1-Digest: c4WhrXmf1QDquO48zO95xrhdWlo=
+
+Name: res/drawable-hdpi-v4/ic_plusone_standard_off_client.png
+SHA1-Digest: SfY+3G0ROn26yscNfyqLheYZY3o=
+
+Name: res/anim/abc_grow_fade_in_from_bottom.xml
+SHA1-Digest: Up4PaoV0Z7eyg8oXDR/Nv1qS39k=
+
+Name: res/layout/help.xml
+SHA1-Digest: pZlN4r4voXtPXYJTyvOu3S53OG0=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: 4LnPZ0EIh2yTqhOvCTdrDYEF9vg=
+
+Name: assets/Resources/images/series/family_care/layer_12.png
+SHA1-Digest: Y5D2f1Emp3lErAvPfwXqXaEVWlw=
+
+Name: res/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+SHA1-Digest: deH5E0yKjBo6CYdnvx70e1ZcVb4=
+
+Name: assets/Resources/images/series/exp_pickup/layer_2.png
+SHA1-Digest: 8z/opUX1nr1OP05nR5gaP5r4UsA=
+
+Name: ti/modules/titanium/ui/widget/webview/polling.js
+SHA1-Digest: kguj0urMGqPdltvDfC0cv7xZio0=
+
+Name: res/drawable-xxhdpi-v4/cast_ic_notification_on.png
+SHA1-Digest: GEgVUHgezybdIGh+tMP310Dychw=
+
+Name: lib/armeabi-v7a/libappcelerator.https.so
+SHA1-Digest: j2pb+qrjd01DwPDwJBUB4pfFoA8=
+
+Name: lib/armeabi/libcom.mscripts.androidkeychain.so
+SHA1-Digest: luTZkJaKvG8ITjfHLXxnmuO4NlI=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: bIAQSJr/EfWZjIQk19BSgzvxEPU=
+
+Name: res/color/abc_primary_text_disable_only_material_dark.xml
+SHA1-Digest: Od6eWfR8+0q7ydPis58FsgualX8=
+
+Name: res/drawable-hdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png
+SHA1-Digest: cljd5mVAssc4X4e74ERwgr7g19E=
+
+Name: res/anim/abc_popup_exit.xml
+SHA1-Digest: WcH4GXbPkyIMTw8a5eUfsUAIEv8=
+
+Name: lib/armeabi/libcom.appcelerator.apm.so
+SHA1-Digest: h3Uk63HJBajKp6EdcQcJXtSYTPc=
+
+Name: res/layout/abc_action_menu_layout.xml
+SHA1-Digest: Ucm+GN3CB3C0z1Ubz8k9lr0hmtk=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_clear_mtrl_alpha.png
+SHA1-Digest: eeP2CewYhyNSgGVytLjdvmT9+uY=
+
+Name: res/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+SHA1-Digest: 2c01ZDdgIWJcWhYB0KEjMwSDc6k=
+
+Name: res/drawable-hdpi-v4/abc_ic_search_api_mtrl_alpha.png
+SHA1-Digest: i0voRy2o+K4S+iB515Scp+rkhhY=
+
+Name: lib/x86/libti.barcode.so
+SHA1-Digest: TrqKW9QVQgGtHl0wHS+bkNyi17M=
+
+Name: assets/Resources/data/image_tip1_pl_1
+SHA1-Digest: R6AMxL+a+MATOsbX9jQgI3kycz8=
+
+Name: assets/Resources/data/image_child_add_pl_1
+SHA1-Digest: 2qeKG4ylv79Ug0RsfPLoRQ62lV8=
+
+Name: res/drawable-mdpi-v4/cast_ic_notification_1.png
+SHA1-Digest: fT/nzND36MfgjxDkV6kbMCZosPU=
+
+Name: lib/armeabi/libti.push.so
+SHA1-Digest: +7ByUxPWOevUnutZjkC+kag0pWk=
+
+Name: res/drawable-xhdpi-v4/ic_plusone_medium_off_client.png
+SHA1-Digest: zeUJW+N1oH+oj9U7hL70+0TC4pk=
+
+Name: res/drawable-ldrtl-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: RdYcJF7RHQR7GyeRVIIXtoeB4zc=
+
+Name: res/drawable-long-land-xxhdpi-v4/background.png
+SHA1-Digest: aGOn4FOBgKBzIkF4o4hWfOnjesg=
+
+Name: res/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png
+SHA1-Digest: f5w1/P3BOViOfigUbV/eR0uuTmE=
+
+Name: res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png
+SHA1-Digest: igV6Z9qyPsoUBNkEZPzj+DDt0kE=
+
+Name: assets/Resources/data/image_adult_pl_1
+SHA1-Digest: uvuqvOHyjk2y1Oy8Un6ucWqlkxE=
+
+Name: res/layout/titanium_ui_edittext.xml
+SHA1-Digest: VsiaGqsP33koCTo9aju32rxdkvM=
+
+Name: assets/Resources/images/series/exp_pickup/layer_12.png
+SHA1-Digest: gK4fe1GMKlsXrGKfVXG8uTfMlKY=
+
+Name: res/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png
+SHA1-Digest: WvazyKPHGN7DcTmhPWllEqzaoY0=
+
+Name: res/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+SHA1-Digest: BmwsKC3uNvwcF8agRRgehS1CAm0=
+
+Name: org/appcelerator/titanium/res/drawable/default_icon.png
+SHA1-Digest: qgzHWRjI37E4oPzkDGqh5PHRXiQ=
+
+Name: res/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA1-Digest: tdbpGRMh8KHxMYAIK8x8FwOqXzM=
+
+Name: res/drawable-mdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: n4jwcaXknjoRCAtaJ1oSyKotNaw=
+
+Name: lib/x86/libtiverify.so
+SHA1-Digest: hB4yb6Qrfs1xHS4Rnz5E21wApMM=
+
+Name: res/drawable-mdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png
+SHA1-Digest: QSpXwRq5YHl8dXrrKk4gh6yCRd0=
+
+Name: res/drawable-mdpi-v4/cast_ic_notification_2.png
+SHA1-Digest: ScIgi8J9nz/mj+rEl2ptzIDBHtE=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: 6rSm6kORk3gR7sN+Kxa8/fR2reU=
+
+Name: lib/x86/libcom.mscripts.androidkeychain.so
+SHA1-Digest: XtK9oewlqLGpCNGiSgLoTaFkg5w=
+
+Name: res/drawable-mdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: 0tNMOXXmuQbid1TzI7vwe4GNLsE=
+
+Name: assets/Resources/images/series/refill/layer_28.png
+SHA1-Digest: um51KZ9lr56/gAGWwcTFllrUJjs=
+
+Name: res/drawable-hdpi-v4/ic_plusone_medium_off_client.png
+SHA1-Digest: iP8qRXkY+XNmRoVEr+A6b2fLfF4=
+
+Name: res/drawable-mdpi-v4/powered_by_google_dark.png
+SHA1-Digest: SYwxuihJgUaoyjHCQQvZHUzSvgw=
+
+Name: res/drawable/abc_dialog_material_background_dark.xml
+SHA1-Digest: p4IVyUq4TJFOsZc5n0rIYGSc6Mc=
+
+Name: res/drawable-xhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+SHA1-Digest: uNbXimDHpOQyw8x18qTqrxMKGBo=
+
+Name: res/drawable-mdpi-v4/abc_ic_search_api_mtrl_alpha.png
+SHA1-Digest: 4+eOcfr2Xjw9675joeNvAJCPtO8=
+
+Name: res/anim/activity_close.xml
+SHA1-Digest: QghgsZCykB9UDVzawkbAO7DC5Hw=
+
+Name: assets/Resources/images/series/app/layer_6.png
+SHA1-Digest: 95oLSU7dTg+4YPt3kACnlqeRRv8=
+
+Name: res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA1-Digest: byuQvpWXS6brcdPpZzFwfkUGtWE=
+
+Name: res/drawable-tvdpi-v4/ic_plusone_tall_off_client.png
+SHA1-Digest: 5DJcJTVQZ/5EfOcHn52XOrGisZk=
+
+Name: res/drawable-hdpi-v4/cast_ic_notification_on.png
+SHA1-Digest: YcDKa0kXSGCqvr7JtJZ+cKz+YyY=
+
+Name: res/drawable-ldrtl-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: RlASjFlsAOIfgzOVaMJeKCTDJ3o=
+
+Name: res/drawable-tvdpi-v4/ic_plusone_medium_off_client.png
+SHA1-Digest: JCchW37ep9rQAe5fTxcGI2f2woY=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: WDwqcy6yDbnca5VTvWWktckJuL4=
+
+Name: assets/Resources/images/series/prescriptions/layer_23.png
+SHA1-Digest: kg2K7K+MhS/k3Kj27TwfaGm5AGM=
+
+Name: res/layout/abc_screen_simple_overlay_action_mode.xml
+SHA1-Digest: ctRLhBm6inDi156dSP/rAvzCICg=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_pressed_light.9.pn
+ g
+SHA1-Digest: ZKYQRM+6FnZ8NFfqxj2cRG8euKk=
+
+Name: res/drawable-ldrtl-xxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: gNguGxIBvUy3qQWkY+B3ShC9JDg=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: /5RFzsw1zwQJHkUKjDGzni0BQNE=
+
+Name: lib/armeabi/libti.imagefactory.so
+SHA1-Digest: /DfeTMZ+ED+su67Rg++2GQfMpDg=
+
+Name: res/anim/abc_slide_out_top.xml
+SHA1-Digest: 8TSJifDdlA1J4leugOVG9Peg+k4=
+
+Name: assets/index.json
+SHA1-Digest: Lk3/kfHDWY2uGH65ZJwEohR4gh0=
+
+Name: org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_1
+ 00.png
+SHA1-Digest: 3+J1eTKUA9QDQ0DvqI+TvzDXmKc=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+SHA1-Digest: Yq5HoWLW1F/u1kVDMfrxjLA2Z9Q=
+
+Name: assets/Resources/images/series/prescriptions/layer_22.png
+SHA1-Digest: 6NHSXs2QZ1tW0fIvRIlFXAQBsYg=
+
+Name: res/drawable-hdpi-v4/abc_ic_clear_mtrl_alpha.png
+SHA1-Digest: xwdo2lCc361ea9dDoy+/MuIl4Y4=
+
+Name: res/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+SHA1-Digest: 15Em2L2dzqYc4FpCIRN6G9jDl+w=
+
+Name: lib/armeabi-v7a/libti.map.so
+SHA1-Digest: rdHJZfLI8fZlanGPpigg4VsAlW4=
+
+Name: res/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha
+ .9.png
+SHA1-Digest: Ay1qOaJ2aLiCf8NAaujbkp0H1cQ=
+
+Name: res/anim/activity_open_back.xml
+SHA1-Digest: JA1tPsWZyfFunfXNm6w4Pufl+D4=
+
+Name: res/layout/abc_list_menu_item_checkbox.xml
+SHA1-Digest: bSAzlvg+8opL5n7j4VPksFudDc0=
+
+Name: org/appcelerator/titanium/res/drawable/photoDefault.png
+SHA1-Digest: lLVMxC6YV4FmPpj98HVvSs0OFq8=
+
+Name: res/layout/notification_template_big_media_narrow.xml
+SHA1-Digest: 9/0+kHLh0BNDAe+bxHJP2W/uHmQ=
+
+Name: res/drawable/launcher_icon.png
+SHA1-Digest: liwQ8tySFj+dWpkecqicvrWmO3A=
+
+Name: assets/html-en/about1d.html
+SHA1-Digest: nywY2q8Yavyql81JqpvxoorXjEE=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: FMoZxbKyy1t4RWJZNFgkkfl6R2I=
+
+Name: res/drawable/background.png
+SHA1-Digest: P3Nbff8LtV5tvpjMnLg6jTWlgWU=
+
+Name: org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_6
+ 4.png
+SHA1-Digest: keTbz4KDCKqgZ7bwFO6ssNfY2Bg=
+
+Name: res/drawable-xhdpi-v4/ic_plusone_tall_off_client.png
+SHA1-Digest: rRjIC9V51TgZe2Muk+QxNRxDB4k=
+
+Name: assets/Resources/images/series/prescriptions/layer_19.png
+SHA1-Digest: tixzRaooQbHrpdIFYnxBZuViJs4=
+
+Name: resources.arsc
+SHA1-Digest: Lv2yX/vbfvZL2ba/7QyG4oFbHig=
+
+Name: res/anim/abc_fade_in.xml
+SHA1-Digest: ohPEA4mboaFUu9LZMUwk7FmjbPI=
+
+Name: lib/armeabi/libcom.tripvi.drawerlayout.so
+SHA1-Digest: kkq+9Q34AdnpzVwRRoRnA/A0gb0=
+
+Name: lib/armeabi/libstlport_shared.so
+SHA1-Digest: 2MFBeiiaEFSezPjxfcl0svJJ+Pg=
+
+Name: res/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+SHA1-Digest: p9584WImSwr0082/N/zkcvVq7yo=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: l4wPPYunAqUs5TQYb14SXXQJQ+I=
+
+Name: org/appcelerator/titanium/res/drawable/btn_picker_normal.9.png
+SHA1-Digest: 4JwNMfjJ5r/pY3iLheQSk3eArs4=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+SHA1-Digest: cvp+pWujiXpQMYoa2y9EetK0U4s=
+
+Name: res/layout/abc_action_bar_up_container.xml
+SHA1-Digest: 1Yhy0S6T18U/lqznBn+cKMwm1/Y=
+
+Name: assets/Resources/images/series/family_care/layer_4.png
+SHA1-Digest: BliG9UbFPL4v4nfrgFRxBmX4toc=
+
+Name: res/layout/abc_search_dropdown_item_icons_2line.xml
+SHA1-Digest: ogLhUfPd0WyPy017ghXpoGw/tt0=
+
+Name: res/layout/abc_screen_simple.xml
+SHA1-Digest: AT55j9LJ9UmZl0wK8fe8axAu7xU=
+
+Name: res/drawable-ldrtl-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: MwwGJLH2efymXowiOLX/FrHQ8uI=
+
+Name: assets/Resources/images/series/refill/layer_1.png
+SHA1-Digest: +F+wb8NJSdLTCGsC/56DuUCoYpk=
+
+Name: res/drawable-tvdpi-v4/ic_plusone_small_off_client.png
+SHA1-Digest: oJkL4xtlN87pNrCzPgueqqvY2nU=
+
+Name: res/drawable-xxhdpi-v4/powered_by_google_dark.png
+SHA1-Digest: gfHaH8EPI7tPXVeskcJGZH2tiRQ=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: GWc6ybKC9nsIf6Z+0RBEJ2TFdQ0=
+
+Name: org/appcelerator/titanium/res/drawable/btn_more_100.png
+SHA1-Digest: DL77SUmV9D53JLzAKqLu7YEDO5U=
+
+Name: res/color-v11/abc_background_cache_hint_selector_material_dark.x
+ ml
+SHA1-Digest: aQ2JZNP9gJbY24korYm3hwLQWeQ=
+
+Name: assets/Resources/images/series/reminders/layer_3.png
+SHA1-Digest: eZxtyiGK3aUlbBarQpr3mLNgvWg=
+
+Name: assets/Resources/images/series/prescriptions/layer_9.png
+SHA1-Digest: JXZskLhxyyTVZnIp1XWnCWbZ4Dk=
+
+Name: res/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: uVr5t9kICvyWmzSrG/2CcPmBMck=
+
+Name: res/drawable-mdpi-v4/cast_ic_notification_0.png
+SHA1-Digest: 9HQ/1855rVEVRqUXGHO7UZK0yT8=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: CbQKQR4v+KUpSOw8jtj/8rngelU=
+
+Name: res/drawable/common_signin_btn_icon_light.xml
+SHA1-Digest: CcAOEhM/b/ulEcKbXBm/foTTGpk=
+
+Name: assets/Resources/images/series/refill/layer_8.png
+SHA1-Digest: q0Yi913qfSEsYhoXWJ9ZZykUQdY=
+
+Name: lib/armeabi-v7a/libtiverify.so
+SHA1-Digest: P0C/CIBn/hTg3GiTeDaWqGZlhrU=
+
+Name: res/drawable-xxhdpi-v4/abc_list_focused_holo.9.png
+SHA1-Digest: FsvLP65iWVfEfIkCPXw4wimwY7M=
+
+Name: res/layout-ldpi-v4/capture.xml
+SHA1-Digest: Cllj/CJ/x6SGjYWixw6EAM7QhMk=
+
+Name: res/drawable/common_signin_btn_text_dark.xml
+SHA1-Digest: jWuj5AKgbhnbYCXYuUHyvNrlOKY=
+
+Name: res/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA1-Digest: 7HpkfQXcTxrewbqOQTtoDixKAiE=
+
+Name: assets/Resources/images/series/refill/layer_19.png
+SHA1-Digest: 0MplEnKHsYrMZkqIhrencrUY/qQ=
+
+Name: assets/images/demo-no.png
+SHA1-Digest: HiRByqxO7fUVh72WbvsJepMvs5M=
+
+Name: res/drawable/shopper_icon.png
+SHA1-Digest: Rb1x4PeP6x3rgqMv5KAesNcHhcQ=
+
+Name: res/drawable-ldpi-v4/notify.png
+SHA1-Digest: klc69kkeOqK4GRM+PBnAe5OYfKU=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: qdpVIcOeVOJG3xTaI3TbVDJS/j8=
+
+Name: res/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png
+SHA1-Digest: 5rSZbdJDOTdM5kJhhIdl8m8briI=
+
+Name: assets/Resources/images/series/refill/layer_27.png
+SHA1-Digest: yY5BdED5tdGgABwpt2Gt3En9Uig=
+
+Name: assets/Resources/images/nl.fokkezb.color/hsv.png
+SHA1-Digest: OSvDgxkrqQz9QNJgRSbQfI+fXYY=
+
+Name: assets/Resources/images/series/reminders/layer_14.png
+SHA1-Digest: PyZFN8yI3yHrC57RNjmulrwZgBY=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: aq5cANIr/vTvCHyumnezd3Qtn7M=
+
+Name: assets/Resources/images/series/family_care/layer_10.png
+SHA1-Digest: B4qm7mX3XIBZpsulmj1tz7jAiOQ=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: OIRGcM9wwTMJqudjfOzKjfWhqx0=
+
+Name: res/drawable-hdpi-v4/drawer_shadow.9.png
+SHA1-Digest: iaWaiCscygiqoeyCwDZvkqNikPE=
+
+Name: lib/armeabi/libti.map.so
+SHA1-Digest: pGAN+WDrAwzYhkWVDObXdxNQYZ8=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: m3YAtUmXDcAGXG5Zyr9q08Mbs2Q=
+
+Name: assets/Resources/images/series/app/layer_5.png
+SHA1-Digest: 5S/8tCnbJgwe3TKeRZcqEYAaapw=
+
+Name: res/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png
+SHA1-Digest: 8fFdZoyOA0FyEP0K/a0QnLk0bbE=
+
+Name: res/layout/titanium_ui_switchcompat.xml
+SHA1-Digest: UY7iDPP/II8RtWhc/6xFcKcjM+4=
+
+Name: res/layout/capture.xml
+SHA1-Digest: TRYKsgLX7dwsa+Vk8GR+mT5GBDw=
+
+Name: assets/Resources/data/font_medium_1
+SHA1-Digest: CLq1satHjoryJ5thPToyY2uFzGU=
+
+Name: res/drawable-ldrtl-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: RuIrosuTr5OJHQud/C7ROtsC4Do=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_disabled_focus_dark.
+ 9.png
+SHA1-Digest: r5BaJcm8YInShTypnaU/gf6UKTQ=
+
+Name: res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png
+SHA1-Digest: kvy6NVZis2HTuWhGbjSTUHivrS8=
+
+Name: res/raw/beep.ogg
+SHA1-Digest: GlIsg8mvi6v0saqDdV7ZN0KoFcY=
+
+Name: assets/Resources/images/series/app/layer_9.png
+SHA1-Digest: pqbwiKLA4IZGFFXF2m42I0026nk=
+
+Name: res/drawable-hdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png
+SHA1-Digest: a3WOgotGuNvyxVkPAMRgiQEpFY8=
+
+Name: res/drawable-ldrtl-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: ycp+w2dbLU7b81Rb76I/u9fYPrc=
+
+Name: res/layout/notification_template_lines.xml
+SHA1-Digest: nCCdQINk9OrAHjn/7ETqcGspROc=
+
+Name: res/layout/abc_list_menu_item_radio.xml
+SHA1-Digest: yBsjsodhez3BGQmvJbFFFpngauo=
+
+Name: assets/Resources/data/image_reminders_refill_benefits_refill_pl_
+ 1
+SHA1-Digest: CfE8s//PGW4uZojE73qSufcRAqc=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: TwWXY0poQcBhLXrZXIM9dyV+eP4=
+
+Name: assets/Resources/images/series/exp_pickup/layer_10.png
+SHA1-Digest: Lv93Rg6FHIw3G92Be4HLbLnOfYI=
+
+Name: assets/Resources/images/series/refill/layer_16.png
+SHA1-Digest: /h4+zr3gqvigG4Glbw22quWsbZw=
+
+Name: res/drawable/switch_track.xml
+SHA1-Digest: myX2avGjsa2FITvYpEEXgr4yEbg=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_disabled_focus_dar
+ k.9.png
+SHA1-Digest: UnGnluRjvPtWCPTuaQl6cAdhCys=
+
+Name: res/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+SHA1-Digest: RsYa9PHKHTGXi9SGr7dikHjzRmA=
+
+Name: res/drawable-notlong-land-xxxhdpi-v4/background.png
+SHA1-Digest: VJpSeoIeTIaiFF48aVoehGmGmqE=
+
+Name: res/layout/abc_activity_chooser_view_list_item.xml
+SHA1-Digest: BiSyWxKeKjiukQW0SC7Prp/AYNY=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_disabled_light.9.p
+ ng
+SHA1-Digest: M/AuBUDrasZr5kX0EObwl5+LiN8=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA1-Digest: ZBOhi6O0UqcAx0uwGK/ojg3SSWQ=
+
+Name: res/drawable/abc_list_selector_holo_light.xml
+SHA1-Digest: l6xTPl1JtffVvgvb4c7kLG2iy5Q=
+
+Name: res/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.
+ png
+SHA1-Digest: s9/qxuNt34tuDKZEbu3WbQxLGWs=
+
+Name: res/drawable-notlong-land-ldpi-v4/background.png
+SHA1-Digest: /EHU5o89h1KTQA/vSLe7AvPE/KE=
+
+Name: res/drawable-xhdpi-v4/ic_plusone_standard_off_client.png
+SHA1-Digest: srU1La0aKxKcB1CLvKiSYa09NHU=
+
+Name: res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: TGHVlpw1mq1IC2cB7ulwjQ18wdc=
+
+Name: res/layout/titanium_ui_list_header_or_footer.xml
+SHA1-Digest: HGtrn+RpzSQz7g+n/7oho6jhfWs=
+
+Name: assets/Resources/images/series/refill/layer_7.png
+SHA1-Digest: IeSL31Ph8bOkeXb1OHuBPR1Dpmk=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: 92pHkmawW9x95wDQw6uvTZBRXkQ=
+
+Name: res/drawable-ldrtl-xhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: EtaLmWRRD0iKRGJC+aVk7ZZNtTw=
+
+Name: res/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+SHA1-Digest: rWEkIJT/DhekegJTLoLY7vlStb8=
+
+Name: res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: u8lEY+2Bl006RY/NojCiasl0Huw=
+
+Name: assets/Resources/images/series/exp_pickup/layer_14.png
+SHA1-Digest: eYm1QPv005z62VdVp0C1CbVLHMg=
+
+Name: res/drawable-mdpi-v4/cast_ic_notification_on.png
+SHA1-Digest: sayxlLYpcwDYAyHOyJOv364NYzE=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_disabled_focus_dark.
+ 9.png
+SHA1-Digest: dYDfYdQeVCs4/1WeSohObo/Y42U=
+
+Name: res/layout-v17/notification_template_media.xml
+SHA1-Digest: EoRWRAlRP8m2/1F7iulsleBsK/U=
+
+Name: assets/Resources/data/image_default_profile_pl_1
+SHA1-Digest: 75B0EeSoZBiAk2JmMY71ozTJQUU=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA1-Digest: kBG1gtv3r0AKtRMQRJeeGdtStSk=
+
+Name: res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+SHA1-Digest: e6ZxO30OB+oHpoct3gGLBY0gYXA=
+
+Name: res/drawable-ldrtl-hdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: Lt/DTHQor68skLXPfwfTNiGvGxM=
+
+Name: assets/Resources/images/series/app/layer_15.png
+SHA1-Digest: gxBUWdcWB5Y+Sl73lrCw91gIpLo=
+
+Name: res/drawable-hdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: fOJdCAF6RpPXxj8bxhTT6gfjGvk=
+
+Name: res/drawable-xhdpi-v4/powered_by_google_dark.png
+SHA1-Digest: psVwTFCoE8L/YbYPXiTtAelEWs8=
+
+Name: res/drawable/abc_btn_borderless_material.xml
+SHA1-Digest: rPL1lJzRovUC1nEamnoL6zg2+0U=
+
+Name: res/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png
+SHA1-Digest: VPmKAqmLJ6ke7a8XellbYKiIBh8=
+
+Name: assets/Resources/images/nl.fokkezb.color/ghsv.png
+SHA1-Digest: jkjDQaZ34FEgqfOEbdEzGr54oZc=
+
+Name: res/drawable-xhdpi-v4/appicon.png
+SHA1-Digest: yugzqCRNLFxS8d7pOZdR29PKxbg=
+
+Name: res/drawable-ldrtl-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: 1dQmPH4BF7Otx7V4njYiASwi5/k=
+
+Name: res/drawable-mdpi-v4/abc_ic_clear_mtrl_alpha.png
+SHA1-Digest: 5iLROOYG5d5JVeNSeWP1Z/5OApc=
+
+Name: assets/Resources/images/series/family_care/layer_20.png
+SHA1-Digest: o1u4kPNggBEPAVxKIOJcstWFZVg=
+
+Name: res/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9
+ .png
+SHA1-Digest: bHADGZ86aGisr0oBfZBoU7RHX/g=
+
+Name: assets/Resources/data/image_map_pin_pl_1
+SHA1-Digest: bMOr+sEJ1NLcB/itCc7Z+9TyLVc=
+
+Name: res/drawable-v23/abc_control_background_material.xml
+SHA1-Digest: Ue5DPGj7Lr3nEIHYTGz+AnqDJ/s=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: HJdSnxPzW/dtUr+R9bfh15Nk+oo=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: 3Cm8nhJcFA+BRyvYi9o9mdskUFM=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: D3OTzMV535uT6sXCK160AaIEUdI=
+
+Name: assets/Resources/images/series/family_care/layer_1.png
+SHA1-Digest: +F+wb8NJSdLTCGsC/56DuUCoYpk=
+
+Name: assets/Resources/images/series/family_care/layer_22.png
+SHA1-Digest: aADC2qBsi4Zsq67sYhxXBWm+3go=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: qaK4e1gDhaSXVr673Ke38Qdp/V4=
+
+Name: assets/Resources/images/series/prescriptions/layer_3.png
+SHA1-Digest: 2rctCCpmT384eNmGjKIRBFjJp2s=
+
+Name: res/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+SHA1-Digest: fOZLRa6EGLts4vAJ9jZTI2UOyZ0=
+
+Name: res/drawable-hdpi-v4/notify.png
+SHA1-Digest: gvAlWIAhLSsMi3hmaq2kQb4z+eg=
+
+Name: res/drawable/abc_text_cursor_material.xml
+SHA1-Digest: e08kbab0hCmZ+bodjZ7WbbBG5g4=
+
+Name: lib/x86/libappcelerator.https.so
+SHA1-Digest: Lye/g+TNeCqYKiGEN3yy4gSFVc4=
+
+Name: res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: 4YsKb2IwvWnlnKLr79msGTpIdXg=
+
+Name: res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+SHA1-Digest: jniuuw+ps9CtTIC7MeCedJBG1rs=
+
+Name: res/drawable-xhdpi-v4/powered_by_google_light.png
+SHA1-Digest: 1PCeD4X7eVLdr2+EB4poVTq1PZw=
+
+Name: assets/Resources/images/series/refill/layer_10.png
+SHA1-Digest: AXADPm9nwh+Q/L3SSU0ZXM9eMxM=
+
+Name: res/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png
+SHA1-Digest: 8uS5dzxcWfvqLPd6VcABucDe9VM=
+
+Name: res/drawable-mdpi-v4/drawer_shadow.9.png
+SHA1-Digest: cNUdijE95lHbP1Db15SXYf0Kwsk=
+
+Name: res/layout/select_dialog_singlechoice_material.xml
+SHA1-Digest: 48gWTNXxtm0tb8HKdIwJFnto/8Q=
+
+Name: assets/Resources/images/series/app/layer_12.png
+SHA1-Digest: Yeq1CaVhl44BT6uAcDJmZb2QcwI=
+
+Name: res/drawable/btn_check_buttonless_on_64.png
+SHA1-Digest: qmuU6nn3s/8E6LToGbStuF6ETeQ=
+
+Name: assets/Resources/images/series/family_care/layer_14.png
+SHA1-Digest: 2mP3TVjevFCzcJ3z5qmXKiRUM/c=
+
+Name: res/color/abc_primary_text_material_light.xml
+SHA1-Digest: 2pQ2qk8B0/r8O7iiuq7EPj8QPUY=
+
+Name: res/drawable/abc_cab_background_internal_bg.xml
+SHA1-Digest: 9JWJR0qt9ACSmUHvHpdMc/ljSx0=
+
+Name: res/drawable-hdpi-v4/cast_ic_notification_2.png
+SHA1-Digest: qtdy9yZtPE1i5ELFCsAkEKDYPxs=
+
+Name: res/drawable-xhdpi-v4/abc_list_focused_holo.9.png
+SHA1-Digest: Kw0Qo9eKlw06/oxLHYSWR6VftBw=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png
+SHA1-Digest: fJDemyYkG1ADa8kfTcfiXUcM7jY=
+
+Name: assets/Resources/images/series/app/layer_7.png
+SHA1-Digest: K8LZhuAvojiVPco7yuEA8spzzT4=
+
+Name: res/color/wallet_primary_text_holo_light.xml
+SHA1-Digest: Ctno/8s+Js8HGx0dBz0fd3+EBb4=
+
+Name: res/drawable-xhdpi-v4/abc_ic_clear_mtrl_alpha.png
+SHA1-Digest: dCGOKd8rjcNtTlp9Dx7UpiSfuC8=
+
+Name: res/drawable-xxxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+SHA1-Digest: 3kAOCvPKDybNG1/Fr21Y+cg522o=
+
+Name: res/drawable-notlong-port-mdpi-v4/background.png
+SHA1-Digest: P3Nbff8LtV5tvpjMnLg6jTWlgWU=
+
+Name: res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png
+SHA1-Digest: MoCLKmenbTlsz905dAkmwWiKKG0=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_disabled_focus_light
+ .9.png
+SHA1-Digest: dYDfYdQeVCs4/1WeSohObo/Y42U=
+
