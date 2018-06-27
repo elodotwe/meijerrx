@@ -4,9 +4,13 @@
 
 
 # static fields
-.field private static final MAX_PREVIEW_PIXELS:I = 0x5dc00
+# 0x5dc00 = 384000 = smaller than 800x600...why? My phone does 1080p just fine
+# How about we increase to...say...720p? 1280x720 = 921600 = 0xE1000
+.field private static final MAX_PREVIEW_PIXELS:I = 0xE1000
 
-.field private static final MIN_PREVIEW_PIXELS:I = 0x12c00
+# 0x12c00 = 76800 = 320x240...blech. Let's do something more sensible.
+# How about we quadruple that? 640x480 = 307200 = 0x4B000
+.field private static final MIN_PREVIEW_PIXELS:I = 0x4B000
 
 .field private static final TAG:Ljava/lang/String; = "CameraConfiguration"
 
@@ -184,11 +188,11 @@
 
     .line 165
     .local v5, "pixels":I
-    const v9, 0x12c00
+    const v9, 0x4B000
 
     if-lt v5, v9, :continue_preview_sizes
 
-    const v9, 0x5dc00
+    const v9, 0xE1000
 
     if-gt v5, v9, :continue_preview_sizes
 
