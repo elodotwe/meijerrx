@@ -102,13 +102,36 @@
     goto :goto_0
 .end method
 
+.method private static logString(Ljava/lang/String;)V
+    .locals 5
+
+    const-string v1, "ELODOTWE"
+    invoke-static {v1, p0}, Landroid/util/Log;->i(Ljava/lang/String;Ljava/lang/String;)I
+    return-void
+.end method
+
+.method private static logInt(I)V
+    .locals 5
+
+    const-string v1, "ELODOTWE"
+    invoke-static {p0}, Ljava/lang/String;->valueOf(I)Ljava/lang/String;
+    move-result-object v2
+
+    invoke-static {v1, v2}, Landroid/util/Log;->i(Ljava/lang/String;Ljava/lang/String;)I
+    return-void
+.end method
+
 .method private static findBestPreviewSizeValue(Landroid/hardware/Camera$Parameters;Landroid/graphics/Point;Z)Landroid/graphics/Point;
-    .locals 11
+    .locals 12
     .param p0, "parameters"    # Landroid/hardware/Camera$Parameters;
     .param p1, "screenResolution"    # Landroid/graphics/Point;
     .param p2, "portrait"    # Z
 
     .prologue
+
+    const-string v11, "findBestPreviewSizeValue called"
+    invoke-static {v11}, Lcom/google/zxing/client/android/camera/CameraConfigurationManager;->logString(Ljava/lang/String;)V
+
     .line 161
     const/4 v0, 0x0
 
@@ -127,13 +150,13 @@
     move-result-object v3
 
     .local v3, "i$":Ljava/util/Iterator;
-    :cond_0
-    :goto_0
+    :continue_preview_sizes
     invoke-interface {v3}, Ljava/util/Iterator;->hasNext()Z
 
     move-result v9
 
-    if-eqz v9, :cond_1
+    # if no more preview sizes, break
+    if-eqz v9, :break_preview_sizes
 
     invoke-interface {v3}, Ljava/util/Iterator;->next()Ljava/lang/Object;
 
@@ -147,35 +170,60 @@
 
     iget v10, v7, Landroid/hardware/Camera$Size;->width:I
 
+    const-string v11, "width"
+    invoke-static {v11}, Lcom/google/zxing/client/android/camera/CameraConfigurationManager;->logString(Ljava/lang/String;)V
+
+    invoke-static {v9}, Lcom/google/zxing/client/android/camera/CameraConfigurationManager;->logInt(I)V
+
+    const-string v11, "height"
+    invoke-static {v11}, Lcom/google/zxing/client/android/camera/CameraConfigurationManager;->logString(Ljava/lang/String;)V
+
+    invoke-static {v10}, Lcom/google/zxing/client/android/camera/CameraConfigurationManager;->logInt(I)V
+
     mul-int v5, v9, v10
 
     .line 165
     .local v5, "pixels":I
     const v9, 0x12c00
 
-    if-lt v5, v9, :cond_0
+    if-lt v5, v9, :continue_preview_sizes
 
     const v9, 0x5dc00
 
-    if-gt v5, v9, :cond_0
+    if-gt v5, v9, :continue_preview_sizes
 
     .line 168
-    if-eqz p2, :cond_3
+    if-eqz p2, :isNotPortrait_2
+
+    const-string v11, "is portrait"
+    invoke-static {v11}, Lcom/google/zxing/client/android/camera/CameraConfigurationManager;->logString(Ljava/lang/String;)V
 
     iget v8, v7, Landroid/hardware/Camera$Size;->height:I
 
     .line 169
     .local v8, "supportedWidth":I
     :goto_1
-    if-eqz p2, :cond_4
+    # if portrait is false
+    if-eqz p2, :isNotPortrait
 
     iget v6, v7, Landroid/hardware/Camera$Size;->width:I
+
+    const-string v11, "supportedHeight"
+    invoke-static {v11}, Lcom/google/zxing/client/android/camera/CameraConfigurationManager;->logString(Ljava/lang/String;)V
+
+    invoke-static {v6}, Lcom/google/zxing/client/android/camera/CameraConfigurationManager;->logInt(I)V
+
+    const-string v11, "supportedWidth"
+    invoke-static {v11}, Lcom/google/zxing/client/android/camera/CameraConfigurationManager;->logString(Ljava/lang/String;)V
+
+    invoke-static {v8}, Lcom/google/zxing/client/android/camera/CameraConfigurationManager;->logInt(I)V
 
     .line 170
     .local v6, "supportedHeight":I
     :goto_2
+    # get screen res x
     iget v9, p1, Landroid/graphics/Point;->x:I
-
+    # v9 = screen res x * supportedHeight
     mul-int/2addr v9, v6
 
     iget v10, p1, Landroid/graphics/Point;->y:I
@@ -205,8 +253,9 @@
     .end local v7    # "supportedPreviewSize":Landroid/hardware/Camera$Size;
     .end local v8    # "supportedWidth":I
     .restart local v0    # "bestSize":Landroid/graphics/Point;
-    :cond_1
-    if-nez v0, :cond_2
+    :break_preview_sizes
+    # if bestSize is not null
+    if-nez v0, :bestSize_not_null
 
     .line 181
     invoke-virtual {p0}, Landroid/hardware/Camera$Parameters;->getPreviewSize()Landroid/hardware/Camera$Size;
@@ -218,8 +267,9 @@
     new-instance v0, Landroid/graphics/Point;
 
     .end local v0    # "bestSize":Landroid/graphics/Point;
+    # v9 = defaultSize width
     iget v9, v1, Landroid/hardware/Camera$Size;->width:I
-
+    # v10 = defaultSize height
     iget v10, v1, Landroid/hardware/Camera$Size;->height:I
 
     invoke-direct {v0, v9, v10}, Landroid/graphics/Point;-><init>(II)V
@@ -227,20 +277,32 @@
     .line 184
     .end local v1    # "defaultSize":Landroid/hardware/Camera$Size;
     .restart local v0    # "bestSize":Landroid/graphics/Point;
-    :cond_2
+    :bestSize_not_null
+    iget v1, v0, Landroid/graphics/Point;->x:I
+    iget v2, v0, Landroid/graphics/Point;->y:I
+    const-string v3, "FINAL width"
+    invoke-static {v3}, Lcom/google/zxing/client/android/camera/CameraConfigurationManager;->logString(Ljava/lang/String;)V
+
+    invoke-static {v1}, Lcom/google/zxing/client/android/camera/CameraConfigurationManager;->logInt(I)V
+
+    const-string v3, "FINAL height"
+    invoke-static {v3}, Lcom/google/zxing/client/android/camera/CameraConfigurationManager;->logString(Ljava/lang/String;)V
+
+    invoke-static {v2}, Lcom/google/zxing/client/android/camera/CameraConfigurationManager;->logInt(I)V
+
     return-object v0
 
     .line 168
     .restart local v5    # "pixels":I
     .restart local v7    # "supportedPreviewSize":Landroid/hardware/Camera$Size;
-    :cond_3
+    :isNotPortrait_2
     iget v8, v7, Landroid/hardware/Camera$Size;->width:I
 
     goto :goto_1
 
     .line 169
     .restart local v8    # "supportedWidth":I
-    :cond_4
+    :isNotPortrait
     iget v6, v7, Landroid/hardware/Camera$Size;->height:I
 
     goto :goto_2
@@ -249,7 +311,7 @@
     .restart local v4    # "newDiff":I
     .restart local v6    # "supportedHeight":I
     :cond_5
-    if-ge v4, v2, :cond_0
+    if-ge v4, v2, :continue_preview_sizes
 
     .line 176
     new-instance v0, Landroid/graphics/Point;
@@ -261,7 +323,7 @@
     .restart local v0    # "bestSize":Landroid/graphics/Point;
     move v2, v4
 
-    goto :goto_0
+    goto :continue_preview_sizes
 .end method
 
 .method private static varargs findSettableValue(Ljava/util/Collection;[Ljava/lang/String;)Ljava/lang/String;
