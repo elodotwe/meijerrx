@@ -228,6 +228,13 @@
     .end local v1    # "defaultSize":Landroid/hardware/Camera$Size;
     .restart local v0    # "bestSize":Landroid/graphics/Point;
     :cond_2
+
+    #1080x1920 seems solid lol
+    const v2, 1080
+    const v1, 1920
+    iput v1, v0, Landroid/graphics/Point;->x:I
+    iput v2, v0, Landroid/graphics/Point;->y:I
+
     return-object v0
 
     .line 168
